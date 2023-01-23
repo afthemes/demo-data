@@ -1390,6 +1390,19 @@
         }
       }
     },
+    "generalnews": {
+      "data": "generalnews",
+      "free": "morenews",
+      "premium": "morenews-pro",
+      "demodata": {
+        "default": {
+          "name": "General News",
+          "catgory": "General",
+          "slug": "generalnews",
+          "preview": "https://demos.afthemes.com/morenews/generalnews/"
+        }
+      }
+    },
     "morenews": {
       "data": "morenews",
       "free": "",

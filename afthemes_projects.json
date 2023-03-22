@@ -2070,6 +2070,19 @@
         }
       }
     },    
+    "chromeblog": {
+      "data": "chromeblog",
+      "free": "chromenews",
+      "premium": "chromenews-pro",
+      "demodata": {
+        "default": {
+          "name": "ChromeBlog",
+          "catgory": "General",
+          "slug": "chromeblog",
+          "preview": "https://demos.afthemes.com/chromenews/chromeblog"
+        }
+      }
+    },    
     "chromenews-pro": {
       "data": "chromenews-pro",
       "free": "chromenews",

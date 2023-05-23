@@ -2054,6 +2054,43 @@
           "catgory": "Blog",
           "slug": "construction-blog",
           "preview": "https://demos.afthemes.com/chromenews/construction-blog/"
+        },
+        "recipe": {
+          "name": "Recipe",
+          "catgory": "Blog",
+          "slug": "recipe",
+          "preview": "https://demos.afthemes.com/chromenews/recipe"
+        },
+        "travel": {
+          "name": "Travel",
+          "catgory": "Blog",
+          "slug": "travel",
+          "preview": "https://demos.afthemes.com/chromenews/travel"
+        },
+        "online-news": {
+          "name": "Online News",
+          "catgory": "News",
+          "slug": "online-news",
+          "preview": "https://demos.afthemes.com/chromenews/online-news"
+        },
+        "feminine-blog": {
+          "name": "Feminine Blog",
+          "catgory": "Blog",
+          "slug": "feminine-blog",
+          "preview": "https://demos.afthemes.com/chromenews/feminine-blog"
+        },
+        "minimal-blog": {
+          "name": "Minimal Blog",
+          "catgory": "Blog",
+          "slug": "minimal-blog",
+          "preview": "https://demos.afthemes.com/chromenews/minimal-blog"
+        },
+        "charity": {
+          "name": "Charity",
+          "catgory": "Blog",
+          "slug": "charity",
+          "preview": "https://demos.afthemes.com/chromenews/charity",
+          "plugins":"blockspare,latest-posts-block-lite,magic-content-box-lite"
         }
       }
     },
@@ -2210,6 +2247,30 @@
           "catgory": "Blog",
           "slug": "construction-blog",
           "preview": "https://demos.afthemes.com/chromenews-pro/construction-blog/"
+        },  
+        "recipe": {
+          "name": "Recipe Pro",
+          "catgory": "Blog",
+          "slug": "recipe",
+          "preview": "https://demos.afthemes.com/chromenews-pro/recipe/"
+        }, 
+        "masonry": {
+          "name": "Masonry Pro",
+          "catgory": "Blog",
+          "slug": "masonry",
+          "preview": "https://demos.afthemes.com/chromenews-pro/masonry/"
+        },  
+        "feminine-blog": {
+          "name": "Feminine Blog Pro",
+          "catgory": "Blog",
+          "slug": "feminine-blog",
+          "preview": "https://demos.afthemes.com/chromenews-pro/feminine-blog"
+        },  
+        "minimal-blog": {
+          "name": "Minimal Blog Pro",
+          "catgory": "Blog",
+          "slug": "minimal-blog",
+          "preview": "https://demos.afthemes.com/chromenews-pro/minimal-blog"
         }  
       }
     },

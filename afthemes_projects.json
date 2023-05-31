@@ -681,6 +681,19 @@
         }
       }
     },
+    "headnews": {
+      "data": "headnews",
+      "free": "newsphere",
+      "premium": "newsphere-pro",
+      "demodata": {
+        "default": {
+          "name": "Headnews",
+          "catgory": "General",
+          "slug": "headnews",
+          "preview": "https://demos.afthemes.com/newsphere/headnews/"
+        }
+      }
+    },
     "newspin": {
       "data": "newspin",
       "free": "newsphere",

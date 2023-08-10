@@ -1,5 +1,19 @@
 {
   "democontent": {
+    "hybridnews": {
+      "data": "hybridnews",
+      "free": "covernews",
+      "premium": "covernews-pro",
+      "demodata": {
+        "default": {
+          "name": "HybridNews",
+          "catgory": "General",
+          "slug": "hybridnews",
+          "preview": "https://demos.afthemes.com/covernews/hybridnews/",
+          "plugins": "blockspare"
+          }
+        }
+      },
     "newsment": {
       "data": "newsment",
       "free": "covernews",

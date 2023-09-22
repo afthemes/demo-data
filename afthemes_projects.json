@@ -2147,6 +2147,19 @@
         }
       }
     },    
+    "chromegrid": {
+      "data": "chromegrid",
+      "free": "chromenews",
+      "premium": "chromenews-pro",
+      "demodata": {
+        "default": {
+          "name": "ChromeGrid",
+          "catgory": "General",
+          "slug": "chromegrid",
+          "preview": "https://demos.afthemes.com/chromenews/chromegrid"
+        }
+      }
+    },    
     "chromenews-pro": {
       "data": "chromenews-pro",
       "free": "chromenews",

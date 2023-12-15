@@ -2035,6 +2035,11 @@
           "catgory": "General",
           "slug": "china-news",
           "preview": "https://demos.afthemes.com/chromenews/china-news/"
+        },"indian": {
+          "name": "Indian",
+          "catgory": "Blog",
+          "slug": "indian",
+          "preview": "https://demos.afthemes.com/chromenews/indian-news"
         },
         "spanish": {
           "name": "Spanish",
@@ -2142,6 +2147,7 @@
           "slug": "restaurant",
           "preview": "https://demos.afthemes.com/chromenews/restaurant/",
           "plugins":"elementor,elespare"
+
         }
       }
     },
@@ -2224,12 +2230,12 @@
           "catgory": "General",
           "slug": "china-news",
           "preview": "https://demos.afthemes.com/chromenews-pro/china-news/"
-        },  
-        "minimal-blog": {
-          "name": "Minimal Blog Pro",
+        },
+        "indian": {
+          "name": "Indian",
           "catgory": "Blog",
-          "slug": "minimal-blog",
-          "preview": "https://demos.afthemes.com/chromenews-pro/minimal-blog"
+          "slug": "indian",
+          "preview": "https://demos.afthemes.com/chromenews-pro/indian"
         },  
         "spanish": {
           "name": "Spanish",
@@ -2359,7 +2365,15 @@
           "catgory": "Blog",
           "slug": "feminine-blog",
           "preview": "https://demos.afthemes.com/chromenews-pro/feminine-blog"
+
+        }, 
+        "minimal-blog": {
+          "name": "Minimal Blog Pro",
+          "catgory": "Blog",
+          "slug": "minimal-blog",
+          "preview": "https://demos.afthemes.com/chromenews-pro/minimal-blog"
         }
+
       }
     },
     "broadnews": {

@@ -303,7 +303,7 @@
           "name": "Minimal Pro",
           "catgory": "Blog",
           "slug": "minimal",
-          "preview": "https://demos.afthemes.com/covernews-pro/minimal-pro/"
+          "preview": "https://demos.afthemes.com/covernews-pro/minimal/"
         },
         "onlinenews-pro": {
           "name": "Online News Pro",
@@ -2118,6 +2118,30 @@
           "slug": "charity",
           "preview": "https://demos.afthemes.com/chromenews/charity",
           "plugins":"blockspare,latest-posts-block-lite,magic-content-box-lite"
+        },
+        "spanish": {
+          "name": "Spanish",
+          "catgory": "Blog",
+          "slug": "spanish",
+          "preview": "https://demos.afthemes.com/chromenews/spanish"
+        },  
+        "russian": {
+          "name": "Russian",
+          "catgory": "Blog",
+          "slug": "russian",
+          "preview": "https://demos.afthemes.com/chromenews/russian"
+        },  
+        "japanese": {
+          "name": "Japanese",
+          "catgory": "Blog",
+          "slug": "japanese",
+          "preview": "https://demos.afthemes.com/chromenews/japanese"
+        },  
+        "german": {
+          "name": "German",
+          "catgory": "Blog",
+          "slug": "german",
+          "preview": "https://demos.afthemes.com/chromenews/german"
         }
       }
     },
@@ -2311,6 +2335,30 @@
           "catgory": "Blog",
           "slug": "minimal-blog",
           "preview": "https://demos.afthemes.com/chromenews-pro/minimal-blog"
+        },  
+        "spanish": {
+          "name": "Spanish",
+          "catgory": "Blog",
+          "slug": "spanish",
+          "preview": "https://demos.afthemes.com/chromenews-pro/spanish"
+        },  
+        "russian": {
+          "name": "Russian",
+          "catgory": "Blog",
+          "slug": "russian",
+          "preview": "https://demos.afthemes.com/chromenews-pro/russian"
+        },  
+        "japanese": {
+          "name": "Japanese",
+          "catgory": "Blog",
+          "slug": "japanese",
+          "preview": "https://demos.afthemes.com/chromenews-pro/japanese"
+        },  
+        "german": {
+          "name": "German",
+          "catgory": "Blog",
+          "slug": "german",
+          "preview": "https://demos.afthemes.com/chromenews-pro/german"
         }  
       }
     },

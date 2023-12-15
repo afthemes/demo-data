@@ -2036,32 +2036,35 @@
           "slug": "china-news",
           "preview": "https://demos.afthemes.com/chromenews/china-news/"
         },
+        "spanish": {
+          "name": "Spanish",
+          "catgory": "Blog",
+          "slug": "spanish",
+          "preview": "https://demos.afthemes.com/chromenews/spanish"
+        },  
+        "russian": {
+          "name": "Russian",
+          "catgory": "Blog",
+          "slug": "russian",
+          "preview": "https://demos.afthemes.com/chromenews/russian"
+        },  
+        "japanese": {
+          "name": "Japanese",
+          "catgory": "Blog",
+          "slug": "japanese",
+          "preview": "https://demos.afthemes.com/chromenews/japanese"
+        },  
+        "german": {
+          "name": "German",
+          "catgory": "Blog",
+          "slug": "german",
+          "preview": "https://demos.afthemes.com/chromenews/german"
+        },
         "business": {
           "name": "Business",
           "catgory": "Elementor",
           "slug": "business",
           "preview": "https://demos.afthemes.com/chromenews/business/",
-          "plugins":"elementor,elespare"
-        },
-        "covid-19": {
-          "name": "Covid 19",
-          "catgory": "Elementor",
-          "slug": "covid-19",
-          "preview": "https://demos.afthemes.com/chromenews/covid-19/",
-          "plugins":"elementor,elespare"
-        },
-        "beauty": {
-          "name": "Beauty",
-          "catgory": "Elementor",
-          "slug": "beauty",
-          "preview": "https://demos.afthemes.com/chromenews/beauty/",
-          "plugins":"elementor,elespare"
-        },
-        "restaurant": {
-          "name": "Restaurant",
-          "catgory": "Elementor",
-          "slug": "restaurant",
-          "preview": "https://demos.afthemes.com/chromenews/restaurant/",
           "plugins":"elementor,elespare"
         },
         "gaming": {
@@ -2119,29 +2122,26 @@
           "preview": "https://demos.afthemes.com/chromenews/charity",
           "plugins":"blockspare,latest-posts-block-lite,magic-content-box-lite"
         },
-        "spanish": {
-          "name": "Spanish",
-          "catgory": "Blog",
-          "slug": "spanish",
-          "preview": "https://demos.afthemes.com/chromenews/spanish"
-        },  
-        "russian": {
-          "name": "Russian",
-          "catgory": "Blog",
-          "slug": "russian",
-          "preview": "https://demos.afthemes.com/chromenews/russian"
-        },  
-        "japanese": {
-          "name": "Japanese",
-          "catgory": "Blog",
-          "slug": "japanese",
-          "preview": "https://demos.afthemes.com/chromenews/japanese"
-        },  
-        "german": {
-          "name": "German",
-          "catgory": "Blog",
-          "slug": "german",
-          "preview": "https://demos.afthemes.com/chromenews/german"
+        "covid-19": {
+          "name": "Covid 19",
+          "catgory": "Elementor",
+          "slug": "covid-19",
+          "preview": "https://demos.afthemes.com/chromenews/covid-19/",
+          "plugins":"elementor,elespare"
+        },
+        "beauty": {
+          "name": "Beauty",
+          "catgory": "Elementor",
+          "slug": "beauty",
+          "preview": "https://demos.afthemes.com/chromenews/beauty/",
+          "plugins":"elementor,elespare"
+        },
+        "restaurant": {
+          "name": "Restaurant",
+          "catgory": "Elementor",
+          "slug": "restaurant",
+          "preview": "https://demos.afthemes.com/chromenews/restaurant/",
+          "plugins":"elementor,elespare"
         }
       }
     },
@@ -2224,7 +2224,37 @@
           "catgory": "General",
           "slug": "china-news",
           "preview": "https://demos.afthemes.com/chromenews-pro/china-news/"
-        },
+        },  
+        "minimal-blog": {
+          "name": "Minimal Blog Pro",
+          "catgory": "Blog",
+          "slug": "minimal-blog",
+          "preview": "https://demos.afthemes.com/chromenews-pro/minimal-blog"
+        },  
+        "spanish": {
+          "name": "Spanish",
+          "catgory": "Blog",
+          "slug": "spanish",
+          "preview": "https://demos.afthemes.com/chromenews-pro/spanish"
+        },  
+        "russian": {
+          "name": "Russian",
+          "catgory": "Blog",
+          "slug": "russian",
+          "preview": "https://demos.afthemes.com/chromenews-pro/russian"
+        },  
+        "japanese": {
+          "name": "Japanese",
+          "catgory": "Blog",
+          "slug": "japanese",
+          "preview": "https://demos.afthemes.com/chromenews-pro/japanese"
+        },  
+        "german": {
+          "name": "German",
+          "catgory": "Blog",
+          "slug": "german",
+          "preview": "https://demos.afthemes.com/chromenews-pro/german"
+        }  ,
         "business": {
           "name": "Business Pro",
           "catgory": "Elementor",
@@ -2329,37 +2359,7 @@
           "catgory": "Blog",
           "slug": "feminine-blog",
           "preview": "https://demos.afthemes.com/chromenews-pro/feminine-blog"
-        },  
-        "minimal-blog": {
-          "name": "Minimal Blog Pro",
-          "catgory": "Blog",
-          "slug": "minimal-blog",
-          "preview": "https://demos.afthemes.com/chromenews-pro/minimal-blog"
-        },  
-        "spanish": {
-          "name": "Spanish",
-          "catgory": "Blog",
-          "slug": "spanish",
-          "preview": "https://demos.afthemes.com/chromenews-pro/spanish"
-        },  
-        "russian": {
-          "name": "Russian",
-          "catgory": "Blog",
-          "slug": "russian",
-          "preview": "https://demos.afthemes.com/chromenews-pro/russian"
-        },  
-        "japanese": {
-          "name": "Japanese",
-          "catgory": "Blog",
-          "slug": "japanese",
-          "preview": "https://demos.afthemes.com/chromenews-pro/japanese"
-        },  
-        "german": {
-          "name": "German",
-          "catgory": "Blog",
-          "slug": "german",
-          "preview": "https://demos.afthemes.com/chromenews-pro/german"
-        }  
+        }
       }
     },
     "broadnews": {

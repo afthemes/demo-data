@@ -317,6 +317,54 @@
           "slug": "athletics-mag",
           "preview": "https://demos.afthemes.com/covernews-pro/athletics-mag/"
         },
+        "arabic-news": {
+          "name": "Arabic News",
+          "catgory": "General",
+          "slug": "arabic-news",
+          "preview": "https://demos.afthemes.com/covernews-pro/arabic-news/"
+        },
+        "china-news": {
+          "name": "China News",
+          "catgory": "General",
+          "slug": "china-news",
+          "preview": "https://demos.afthemes.com/covernews-pro/china-news/"
+        },"indian": {
+          "name": "Indian",
+          "catgory": "Blog",
+          "slug": "indian",
+          "preview": "https://demos.afthemes.com/covernews-pro/indian-news"
+        },
+        "spanish": {
+          "name": "Spanish",
+          "catgory": "Blog",
+          "slug": "spanish",
+          "preview": "https://demos.afthemes.com/covernews-pro/spanish"
+        },  
+        "russian": {
+          "name": "Russian",
+          "catgory": "Blog",
+          "slug": "russian",
+          "preview": "https://demos.afthemes.com/covernews-pro/russian"
+        },  
+        "japanese": {
+          "name": "Japanese",
+          "catgory": "Blog",
+          "slug": "japanese",
+          "preview": "https://demos.afthemes.com/covernews-pro/japanese"
+        },  
+        "nepali": {
+          "name": "Nepali",
+          "catgory": "Blog",
+          "slug": "nepali",
+          "preview": "https://demos.afthemes.com/covernews-pro/nepali"
+        },
+        "german": {
+          "name": "German",
+          "catgory": "Blog",
+          "slug": "german",
+          "preview": "https://demos.afthemes.com/covernews-pro/german"
+        }
+      },
         "classic-pro": {
           "name": "Classic Pro",
           "catgory": "General",
@@ -377,20 +425,7 @@
           "catgory": "Business",
           "slug": "crypto-news",
           "preview": "https://demos.afthemes.com/covernews-pro/crypto-news/"
-        },
-        "arabic-news": {
-          "name": "Arabic News",
-          "catgory": "General",
-          "slug": "arabic-news",
-          "preview": "https://demos.afthemes.com/covernews-pro/arabic-news/"
-        },
-        "china-news": {
-          "name": "China News",
-          "catgory": "General",
-          "slug": "china-news",
-          "preview": "https://demos.afthemes.com/covernews-pro/china-news/"
         }
-      }
     },
     "newsever": {
       "data": "newsever",

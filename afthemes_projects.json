@@ -161,18 +161,29 @@
           "slug": "fashion",
           "preview": "https://demos.afthemes.com/covernews/fashion/"
         },
-        "general": {
-          "name": "General",
-          "catgory": "Elementor",
-          "slug": "general",
-          "preview": "https://demos.afthemes.com/covernews/general/",
-          "plugins": "elementor,elespare"
-        },
         "sport": {
           "name": "Sport",
           "catgory": "Sport",
           "slug": "sport",
           "preview": "https://demos.afthemes.com/covernews/sport/"
+        },
+        "gadgets": {
+          "name": "Gadgets",
+          "catgory": "Business",
+          "slug": "gadgets",
+          "preview": "https://demos.afthemes.com/covernews/gadgets/"
+        },
+        "arabic-news": {
+          "name": "Arabic News",
+          "catgory": "General",
+          "slug": "arabic-news",
+          "preview": "https://demos.afthemes.com/covernews/arabic-news/"
+        },
+        "china-news": {
+          "name": "China News",
+          "catgory": "General",
+          "slug": "china-news",
+          "preview": "https://demos.afthemes.com/covernews/china-news/"
         },
         "indian": {
           "name": "Indian",
@@ -230,11 +241,12 @@
           "preview": "https://demos.afthemes.com/covernews/ornament/",
           "plugins": "elementor,elespare"
         },
-        "gadgets": {
-          "name": "Gadgets",
-          "catgory": "Business",
-          "slug": "gadgets",
-          "preview": "https://demos.afthemes.com/covernews/gadgets/"
+        "general": {
+          "name": "General",
+          "catgory": "Elementor",
+          "slug": "general",
+          "preview": "https://demos.afthemes.com/covernews/general/",
+          "plugins": "elementor,elespare"
         },
         "wedding": {
           "name": "Wedding",
@@ -261,18 +273,6 @@
           "catgory": "Business",
           "slug": "crypto-news",
           "preview": "https://demos.afthemes.com/covernews/crypto-news/"
-        },
-        "arabic-news": {
-          "name": "Arabic News",
-          "catgory": "General",
-          "slug": "arabic-news",
-          "preview": "https://demos.afthemes.com/covernews/arabic-news/"
-        },
-        "china-news": {
-          "name": "China News",
-          "catgory": "General",
-          "slug": "china-news",
-          "preview": "https://demos.afthemes.com/covernews/china-news/"
         }
       }
     },

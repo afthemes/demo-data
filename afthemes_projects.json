@@ -363,8 +363,8 @@
           "catgory": "Blog",
           "slug": "german",
           "preview": "https://demos.afthemes.com/covernews-pro/german"
-        }
-      },
+        
+        },
         "classic-pro": {
           "name": "Classic Pro",
           "catgory": "General",
@@ -426,6 +426,7 @@
           "slug": "crypto-news",
           "preview": "https://demos.afthemes.com/covernews-pro/crypto-news/"
         }
+      }
     },
     "newsever": {
       "data": "newsever",

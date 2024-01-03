@@ -174,49 +174,49 @@
           "preview": "https://demos.afthemes.com/covernews/gadgets/"
         },
         "arabic-news": {
-          "name": "Arabic News",
+          "name": "عربي",
           "catgory": "General",
           "slug": "arabic-news",
           "preview": "https://demos.afthemes.com/covernews/arabic-news/"
         },
         "china-news": {
-          "name": "China News",
+          "name": "中国人",
           "catgory": "General",
           "slug": "china-news",
           "preview": "https://demos.afthemes.com/covernews/china-news/"
         },
         "indian": {
-          "name": "Indian",
+          "name": "भारतीय",
           "catgory": "Blog",
           "slug": "indian",
-          "preview": "https://demos.afthemes.com/covernews/indian-news"
+          "preview": "https://demos.afthemes.com/covernews/hindi-news"
         },
         "spanish": {
-          "name": "Spanish",
+          "name": "Español",
           "catgory": "Blog",
           "slug": "spanish",
           "preview": "https://demos.afthemes.com/covernews/spanish"
         },  
         "russian": {
-          "name": "Russian",
+          "name": "Русский",
           "catgory": "Blog",
           "slug": "russian",
           "preview": "https://demos.afthemes.com/covernews/russian"
         },  
         "japanese": {
-          "name": "Japanese",
+          "name": "日本語",
           "catgory": "Blog",
           "slug": "japanese",
           "preview": "https://demos.afthemes.com/covernews/japanese"
         },  
         "nepali": {
-          "name": "Nepali",
+          "name": "नेपाली",
           "catgory": "Blog",
           "slug": "nepali",
           "preview": "https://demos.afthemes.com/covernews/nepali"
         },
         "german": {
-          "name": "German",
+          "name": "Deutsch",
           "catgory": "Blog",
           "slug": "german",
           "preview": "https://demos.afthemes.com/covernews/german"
@@ -318,52 +318,51 @@
           "preview": "https://demos.afthemes.com/covernews-pro/athletics-mag/"
         },
         "arabic-news": {
-          "name": "Arabic News",
+          "name": "عربي",
           "catgory": "General",
           "slug": "arabic-news",
           "preview": "https://demos.afthemes.com/covernews-pro/arabic-news/"
         },
         "china-news": {
-          "name": "China News",
+          "name": "中国人",
           "catgory": "General",
           "slug": "china-news",
           "preview": "https://demos.afthemes.com/covernews-pro/china-news/"
         },"indian": {
-          "name": "Indian",
+          "name": "भारतीय",
           "catgory": "Blog",
           "slug": "indian",
           "preview": "https://demos.afthemes.com/covernews-pro/indian-news"
         },
         "spanish": {
-          "name": "Spanish",
+          "name": "Español",
           "catgory": "Blog",
           "slug": "spanish",
           "preview": "https://demos.afthemes.com/covernews-pro/spanish"
         },  
         "russian": {
-          "name": "Russian",
+          "name": "Русский",
           "catgory": "Blog",
           "slug": "russian",
           "preview": "https://demos.afthemes.com/covernews-pro/russian"
         },  
         "japanese": {
-          "name": "Japanese",
+          "name": "日本語",
           "catgory": "Blog",
           "slug": "japanese",
           "preview": "https://demos.afthemes.com/covernews-pro/japanese"
         },  
         "nepali": {
-          "name": "Nepali",
+          "name": "नेपाली",
           "catgory": "Blog",
           "slug": "nepali",
           "preview": "https://demos.afthemes.com/covernews-pro/nepali"
         },
         "german": {
-          "name": "German",
+          "name": "Deutsch",
           "catgory": "Blog",
           "slug": "german",
           "preview": "https://demos.afthemes.com/covernews-pro/german"
-        
         },
         "classic-pro": {
           "name": "Classic Pro",
@@ -476,13 +475,13 @@
           "preview": "https://demos.afthemes.com/newsever/crypto-news/"
         },
         "arabic-news": {
-          "name": "Arabic News",
+          "name": "عربي",
           "catgory": "General",
           "slug": "arabic-news",
           "preview": "https://demos.afthemes.com/newsever/arabic-news/"
         },
         "china-news": {
-          "name": "China News",
+          "name": "中国人",
           "catgory": "General",
           "slug": "china-news",
           "preview": "https://demos.afthemes.com/newsever/china-news/"
@@ -651,13 +650,13 @@
           "preview": "https://demos.afthemes.com/newsium/crypto-news/"
         },
         "arabic-news": {
-          "name": "Arabic News",
+          "name": "عربي",
           "catgory": "General",
           "slug": "arabic-news",
           "preview": "https://demos.afthemes.com/newsium/arabic-news/"
         },
         "china-news": {
-          "name": "China News",
+          "name": "中国人",
           "catgory": "general",
           "slug": "china-news",
           "preview": "https://demos.afthemes.com/newsium/china-news/"
@@ -837,13 +836,13 @@
           "preview": "https://demos.afthemes.com/newsphere/crypto-news/"
         },
         "arabic-news": {
-          "name": "Arabic News",
+          "name": "عربي",
           "catgory": "General",
           "slug": "arabic-news",
           "preview": "https://demos.afthemes.com/newsphere/arabic-news/"
         },
         "china-news": {
-          "name": "China News",
+          "name": "中国人",
           "catgory": "General",
           "slug": "china-news",
           "preview": "https://demos.afthemes.com/newsphere/china-news/"
@@ -1160,13 +1159,13 @@
           "preview": "https://demos.afthemes.com/enternews/crypto-currency/"
         },
         "arabic-news": {
-          "name": "Arabic News",
+          "name": "عربي",
           "catgory": "General",
           "slug": "arabic-news",
           "preview": "https://demos.afthemes.com/enternews/arabic-news/"
         },
         "china-news": {
-          "name": "China News",
+          "name": "中国人",
           "catgory": "General",
           "slug": "china-news",
           "preview": "https://demos.afthemes.com/enternews/china-news/"
@@ -1270,13 +1269,13 @@
           "preview": "https://demos.afthemes.com/enternews-pro/crypto-currency/"
         },
         "arabic-news": {
-          "name": "Arabic News",
+          "name": "عربي",
           "catgory": "General",
           "slug": "arabic-news",
           "preview": "https://demos.afthemes.com/enternews-pro/arabic-news/"
         },
         "china-news": {
-          "name": "China News",
+          "name": "中国人",
           "catgory": "General",
           "slug": "china-news",
           "preview": "https://demos.afthemes.com/enternews-pro/china-news/"
@@ -1379,13 +1378,13 @@
           "preview": "https://demos.afthemes.com/darknews/crypto-news/"
         },
         "arabic-news": {
-          "name": "Arabic News",
+          "name": "عربي",
           "catgory": "General",
           "slug": "arabic-news",
           "preview": "https://demos.afthemes.com/darknews/arabic-news/"
         },
         "china-news": {
-          "name": "China News",
+          "name": "中国人",
           "catgory": "General",
           "slug": "china-news",
           "preview": "https://demos.afthemes.com/darknews/china-news/"
@@ -1476,7 +1475,7 @@
           "preview": "https://demos.afthemes.com/darknews-pro/crypto-news/"
         },
         "arabic-news": {
-          "name": "Arabic News",
+          "name": "عربي",
           "catgory": "General",
           "slug": "arabic-news",
           "preview": "https://demos.afthemes.com/darknews-pro/arabic-news/"
@@ -1550,13 +1549,13 @@
           "preview": "https://demos.afthemes.com/morenews/crypto-news/"
         },
         "arabic-news": {
-          "name": "Arabic News",
+          "name": "عربي",
           "catgory": "General",
           "slug": "arabic-news",
           "preview": "https://demos.afthemes.com/morenews/arabic-news/"
         },
         "china-today": {
-          "name": "China Today",
+          "name": "中国人",
           "catgory": "General",
           "slug": "china-today",
           "preview": "https://demos.afthemes.com/morenews/china-today/"
@@ -1652,13 +1651,13 @@
           "preview": "https://demos.afthemes.com/morenews-pro/fitness-magazine/"
         },
         "arabic-news": {
-          "name": "Arabic News",
+          "name": "عربي",
           "catgory": "General",
           "slug": "arabic-news",
           "preview": "https://demos.afthemes.com/morenews-pro/arabic-news/"
         },
         "china-today": {
-          "name": "China Today",
+          "name": "中国人",
           "catgory": "General",
           "slug": "china-today",
           "preview": "https://demos.afthemes.com/morenews-pro/china-today/"
@@ -2097,49 +2096,49 @@
           "preview": "https://demos.afthemes.com/chromenews/fashion/"
         },
         "arabic-news": {
-          "name": "Arabic News",
+          "name": "عربي",
           "catgory": "General",
           "slug": "arabic-news",
           "preview": "https://demos.afthemes.com/chromenews/arabic-news/"
         },
         "china-news": {
-          "name": "China News",
+          "name": "中国人",
           "catgory": "General",
           "slug": "china-news",
           "preview": "https://demos.afthemes.com/chromenews/china-news/"
         },
         "indian": {
-          "name": "Indian",
+          "name": "भारतीय",
           "catgory": "Blog",
           "slug": "indian",
           "preview": "https://demos.afthemes.com/chromenews/indian-news"
         },
         "spanish": {
-          "name": "Spanish",
+          "name": "Español",
           "catgory": "Blog",
           "slug": "spanish",
           "preview": "https://demos.afthemes.com/chromenews/spanish"
         },  
         "russian": {
-          "name": "Russian",
+          "name": "Русский",
           "catgory": "Blog",
           "slug": "russian",
           "preview": "https://demos.afthemes.com/chromenews/russian"
         },  
         "japanese": {
-          "name": "Japanese",
+          "name": "日本語",
           "catgory": "Blog",
           "slug": "japanese",
           "preview": "https://demos.afthemes.com/chromenews/japanese"
         },  
         "nepali": {
-          "name": "Nepali",
+          "name": "नेपाली",
           "catgory": "Blog",
           "slug": "nepali",
           "preview": "https://demos.afthemes.com/chromenews/nepali"
         },
         "german": {
-          "name": "German",
+          "name": "Deutsch",
           "catgory": "Blog",
           "slug": "german",
           "preview": "https://demos.afthemes.com/chromenews/german"
@@ -2299,49 +2298,49 @@
           "preview": "https://demos.afthemes.com/chromenews-pro/classic/"
         },
         "arabic-news": {
-          "name": "Arabic News Pro",
+          "name": "عربي Pro",
           "catgory": "General",
           "slug": "arabic-news",
           "preview": "https://demos.afthemes.com/chromenews-pro/arabic-news/"
         },
         "china-news": {
-          "name": "China News Pro",
+          "name": "中国人 Pro",
           "catgory": "General",
           "slug": "china-news",
           "preview": "https://demos.afthemes.com/chromenews-pro/china-news/"
         },
         "indian": {
-          "name": "Indian",
+          "name": "भारतीय",
           "catgory": "Blog",
           "slug": "indian",
           "preview": "https://demos.afthemes.com/chromenews-pro/indian"
         },  
         "spanish": {
-          "name": "Spanish",
+          "name": "Español",
           "catgory": "Blog",
           "slug": "spanish",
           "preview": "https://demos.afthemes.com/chromenews-pro/spanish"
         },  
         "russian": {
-          "name": "Russian",
+          "name": "Русский",
           "catgory": "Blog",
           "slug": "russian",
           "preview": "https://demos.afthemes.com/chromenews-pro/russian"
         },  
         "japanese": {
-          "name": "Japanese",
+          "name": "日本語",
           "catgory": "Blog",
           "slug": "japanese",
           "preview": "https://demos.afthemes.com/chromenews-pro/japanese"
         },
         "nepali": {
-          "name": "Nepali",
+          "name": "नेपाली",
           "catgory": "Blog",
           "slug": "nepali",
           "preview": "https://demos.afthemes.com/chromenews/nepali"
         },  
         "german": {
-          "name": "German",
+          "name": "Deutsch",
           "catgory": "Blog",
           "slug": "german",
           "preview": "https://demos.afthemes.com/chromenews-pro/german"
@@ -2491,13 +2490,13 @@
           "preview": "https://demos.afthemes.com/broadnews/classic/"
         },
         "arabic-news": {
-          "name": "Arabic News",
+          "name": "عربي",
           "catgory": "General",
           "slug": "arabic-news",
           "preview": "https://demos.afthemes.com/broadnews/arabic-news/"
         },
         "chinese-news": {
-          "name": "Chinese News",
+          "name": "中国人",
           "catgory": "General",
           "slug": "chinese-news",
           "preview": "https://demos.afthemes.com/broadnews/chinese-news/"
@@ -2552,13 +2551,13 @@
           "preview": "https://demos.afthemes.com/broadnews-pro/classic/"
         },
         "arabic-news": {
-          "name": "Arabic News Pro",
+          "name": "عربي Pro",
           "catgory": "General",
           "slug": "arabic-news",
           "preview": "https://demos.afthemes.com/broadnews-pro/arabic-news/"
         },
         "chinese-news": {
-          "name": "Chinese News Pro",
+          "name": "中国人 Pro",
           "catgory": "General",
           "slug": "chinese-news",
           "preview": "https://demos.afthemes.com/broadnews-pro/chinese-news/"

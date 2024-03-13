@@ -7,7 +7,7 @@
       "demodata": {
         "default": {
           "name": "HybridNews",
-          "catgory": "General",
+          "catgory": "Blockspare",
           "slug": "hybridnews",
           "preview": "https://demos.afthemes.com/covernews/hybridnews/",
           "plugins": "blockspare"
@@ -172,6 +172,13 @@
           "catgory": "Business",
           "slug": "gadgets",
           "preview": "https://demos.afthemes.com/covernews/gadgets/"
+        },
+        "hybridnews-dark": {
+          "name": "HybridNews Dark",
+          "catgory": "Blockspare",
+          "slug": "hybridnews-dark",
+          "preview": "https://demos.afthemes.com/covernews/hybridnews-dark/",
+          "plugins": "blockspare"
         },
         "arabic-news": {
           "name": "عربي",
@@ -485,6 +492,20 @@
           "catgory": "General",
           "slug": "china-news",
           "preview": "https://demos.afthemes.com/newsever/china-news/"
+        },
+        "blocknews": {
+          "name": "Newsever Block",
+          "catgory": "Blockspare",
+          "slug": "blocknews",
+          "preview": "https://demos.afthemes.com/newsever/blocknews/",
+          "plugins": "blockspare"
+        },
+        "blocknews-light": {
+          "name": "Newsever Block Light",
+          "catgory": "Blockspare",
+          "slug": "blocknews-light",
+          "preview": "https://demos.afthemes.com/newsever/blocknews-light/",
+          "plugins": "blockspare"
         },
         "bikes": {
           "name": "Bikes",
@@ -829,6 +850,20 @@
           "slug": "sport",
           "preview": "https://demos.afthemes.com/newsphere/sport/"
         },
+        "newsblock": {
+          "name": "Newsphere Block",
+          "catgory": "Blockspare",
+          "slug": "newsblock",
+          "preview": "https://demos.afthemes.com/newsphere/newsblock/",
+          "plugins":"blockspare"
+        },
+        "newsblock-dark": {
+          "name": "Newsphere Block Dark",
+          "catgory": "Blockspare",
+          "slug": "newsblock-dark",
+          "preview": "https://demos.afthemes.com/newsphere/newsblock-dark/",
+          "plugins":"blockspare"
+        },
         "crypto-news": {
           "name": "Crypto News",
           "catgory": "Business",
@@ -1113,6 +1148,20 @@
           "slug": "sport",
           "preview": "https://demos.afthemes.com/enternews/sport/"
         },
+        "blocknews": {
+          "name": "Enternews Block",
+          "catgory": "Blockspare",
+          "slug": "blocknews",
+          "preview": "https://demos.afthemes.com/enternews/blocknews/",
+          "plugins": "blockspare"
+        },
+        "blocknews-dark": {
+          "name": "Enternews Block Dark",
+          "catgory": "Blockspare",
+          "slug": "blocknews-dark",
+          "preview": "https://demos.afthemes.com/enternews/blocknews-dark/",
+          "plugins": "blockspare"
+        },
         "beauty": {
           "name": "Beauty",
           "catgory": "Elementor",
@@ -1335,6 +1384,20 @@
           "catgory": "Blog",
           "slug": "gaming",
           "preview": "https://demos.afthemes.com/darknews/gaming/"
+        },
+        "blocknews": {
+          "name": "Darknews Block",
+          "catgory": "Blockspare",
+          "slug": "blocknews",
+          "preview": "https://demos.afthemes.com/darknews/blocknews/",
+          "plugins": "blockspare"
+        },
+        "blocknews-light": {
+          "name": "Darknews Light Block",
+          "catgory": "Blockspare",
+          "slug": "blocknews-light",
+          "preview": "https://demos.afthemes.com/darknews/blocknews-light/",
+          "plugins": "blockspare"
         },
         "gym": {
           "name": "Gym",
@@ -1559,6 +1622,20 @@
           "catgory": "General",
           "slug": "china-today",
           "preview": "https://demos.afthemes.com/morenews/china-today/"
+        },
+        "moreblock": {
+          "name": "Morenews Block",
+          "catgory": "Blockspare",
+          "slug": "moreblock",
+          "preview": "https://demos.afthemes.com/morenews/moreblock/",
+          "plugins": "blockspare"
+        },
+        "moreblock-dark": {
+          "name": "Morenews Dark Block",
+          "catgory": "Blockspare",
+          "slug": "moreblock-dark",
+          "preview": "https://demos.afthemes.com/morenews/moreblock-dark/",
+          "plugins": "blockspare"
         },
         "architecture-blog": {
           "name": "Architecture Blog",
@@ -2143,6 +2220,13 @@
           "slug": "german",
           "preview": "https://demos.afthemes.com/chromenews/german"
         },
+        "blocknews-dark": {
+          "name": "ChromeNews Block Dark",
+          "catgory": "Blockspare",
+          "slug": "blocknews-dark",
+          "preview": "https://demos.afthemes.com/chromenews/blocknews-dark/",
+          "plugins":"blockspare"
+        },
         "business": {
           "name": "Business",
           "catgory": "Elementor",
@@ -2200,7 +2284,7 @@
         },
         "charity": {
           "name": "Charity",
-          "catgory": "Blog",
+          "catgory": "Blockspare",
           "slug": "charity",
           "preview": "https://demos.afthemes.com/chromenews/charity",
           "plugins":"blockspare,latest-posts-block-lite,magic-content-box-lite"
@@ -2265,6 +2349,20 @@
           "catgory": "General",
           "slug": "chromegrid",
           "preview": "https://demos.afthemes.com/chromenews/chromegrid"
+        }
+      }
+    },    
+    "newschrome": {
+      "data": "newschrome",
+      "free": "chromenews",
+      "premium": "chromenews-pro",
+      "demodata": {
+        "default": {
+          "name": "NewsChrome",
+          "catgory": "General",
+          "slug": "newschrome",
+          "preview": "https://demos.afthemes.com/chromenews/newschrome",
+          "plugins":"blockspare"
         }
       }
     },    

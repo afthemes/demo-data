@@ -7,7 +7,7 @@
       "demodata": {
         "default": {
           "name": "HybridNews",
-          "catgory": "Blockspare",
+          "catgory": "Gutenberg",
           "slug": "hybridnews",
           "preview": "https://demos.afthemes.com/covernews/hybridnews/",
           "plugins": "blockspare"
@@ -175,7 +175,7 @@
         },
         "hybridnews-dark": {
           "name": "HybridNews Dark",
-          "catgory": "Blockspare",
+          "catgory": "Gutenberg",
           "slug": "hybridnews-dark",
           "preview": "https://demos.afthemes.com/covernews/hybridnews-dark/",
           "plugins": "blockspare"
@@ -495,14 +495,14 @@
         },
         "blocknews": {
           "name": "Newsever Block",
-          "catgory": "Blockspare",
+          "catgory": "Gutenberg",
           "slug": "blocknews",
           "preview": "https://demos.afthemes.com/newsever/blocknews/",
           "plugins": "blockspare"
         },
         "blocknews-light": {
           "name": "Newsever Block Light",
-          "catgory": "Blockspare",
+          "catgory": "Gutenberg",
           "slug": "blocknews-light",
           "preview": "https://demos.afthemes.com/newsever/blocknews-light/",
           "plugins": "blockspare"
@@ -852,14 +852,14 @@
         },
         "newsblock": {
           "name": "Newsphere Block",
-          "catgory": "Blockspare",
+          "catgory": "Gutenberg",
           "slug": "newsblock",
           "preview": "https://demos.afthemes.com/newsphere/newsblock/",
           "plugins":"blockspare"
         },
         "newsblock-dark": {
           "name": "Newsphere Block Dark",
-          "catgory": "Blockspare",
+          "catgory": "Gutenberg",
           "slug": "newsblock-dark",
           "preview": "https://demos.afthemes.com/newsphere/newsblock-dark/",
           "plugins":"blockspare"
@@ -1150,14 +1150,14 @@
         },
         "blocknews": {
           "name": "Enternews Block",
-          "catgory": "Blockspare",
+          "catgory": "Gutenberg",
           "slug": "blocknews",
           "preview": "https://demos.afthemes.com/enternews/blocknews/",
           "plugins": "blockspare"
         },
         "blocknews-dark": {
           "name": "Enternews Block Dark",
-          "catgory": "Blockspare",
+          "catgory": "Gutenberg",
           "slug": "blocknews-dark",
           "preview": "https://demos.afthemes.com/enternews/blocknews-dark/",
           "plugins": "blockspare"
@@ -1387,14 +1387,14 @@
         },
         "blocknews": {
           "name": "Darknews Block",
-          "catgory": "Blockspare",
+          "catgory": "Gutenberg",
           "slug": "blocknews",
           "preview": "https://demos.afthemes.com/darknews/blocknews/",
           "plugins": "blockspare"
         },
         "blocknews-light": {
           "name": "Darknews Light Block",
-          "catgory": "Blockspare",
+          "catgory": "Gutenberg",
           "slug": "blocknews-light",
           "preview": "https://demos.afthemes.com/darknews/blocknews-light/",
           "plugins": "blockspare"
@@ -1625,14 +1625,14 @@
         },
         "moreblock": {
           "name": "Morenews Block",
-          "catgory": "Blockspare",
+          "catgory": "Gutenberg",
           "slug": "moreblock",
           "preview": "https://demos.afthemes.com/morenews/moreblock/",
           "plugins": "blockspare"
         },
         "moreblock-dark": {
           "name": "Morenews Dark Block",
-          "catgory": "Blockspare",
+          "catgory": "Gutenberg",
           "slug": "moreblock-dark",
           "preview": "https://demos.afthemes.com/morenews/moreblock-dark/",
           "plugins": "blockspare"
@@ -2222,7 +2222,7 @@
         },
         "blocknews-dark": {
           "name": "ChromeNews Block Dark",
-          "catgory": "Blockspare",
+          "catgory": "Gutenberg",
           "slug": "blocknews-dark",
           "preview": "https://demos.afthemes.com/chromenews/blocknews-dark/",
           "plugins":"blockspare"
@@ -2284,7 +2284,7 @@
         },
         "charity": {
           "name": "Charity",
-          "catgory": "Blockspare",
+          "catgory": "Gutenberg",
           "slug": "charity",
           "preview": "https://demos.afthemes.com/chromenews/charity",
           "plugins":"blockspare,latest-posts-block-lite,magic-content-box-lite"
@@ -2501,7 +2501,7 @@
         },
         "charity": {
           "name": "Charity Pro",
-          "catgory": "Blockspare",
+          "catgory": "Gutenberg",
           "slug": "charity",
           "preview": "https://demos.afthemes.com/chromenews-pro/charity/",
           "plugins":"blockspare,latest-posts-block-lite,magic-content-box-lite"

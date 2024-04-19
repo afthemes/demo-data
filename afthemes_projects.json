@@ -969,19 +969,22 @@
           "name": "Storeship",
           "catgory": "General",
           "slug": "storeship",
-          "preview": "https://demos.afthemes.com/storeship/"
+          "preview": "https://demos.afthemes.com/storeship/",
+          "plugins": "woocommerce"
         },
         "fashion": {
           "name": "Fashion",
           "catgory": "Fashion",
           "slug": "fashion",
-          "preview": "https://demos.afthemes.com/storeship/fashion/"
+          "preview": "https://demos.afthemes.com/storeship/fashion/",
+          "plugins": "woocommerce"
         },
         "furniture": {
           "name": "Furniture",
           "catgory": "Furniture",
           "slug": "furniture",
-          "preview": "https://demos.afthemes.com/storeship/furniture/"
+          "preview": "https://demos.afthemes.com/storeship/furniture/",
+          "plugins": "woocommerce"
         }
       }
     },
@@ -994,7 +997,8 @@
           "name": "FoodShop",
           "catgory": "Food and Beverage",
           "slug": "foodshop",
-          "preview": "https://demos.afthemes.com/storeship/foodshop/"
+          "preview": "https://demos.afthemes.com/storeship/foodshop/",
+          "plugins": "woocommerce"
         }
       }
     },
@@ -1007,37 +1011,43 @@
           "name": "Storeship Pro",
           "catgory": "General",
           "slug": "storeship-pro",
-          "preview": "https://demos.afthemes.com/storeship-pro/"
+          "preview": "https://demos.afthemes.com/storeship-pro/",
+          "plugins": "woocommerce"
         },
         "liquor": {
           "name": "Liquor Pro",
           "catgory": "Food and Beverage",
           "slug": "liquor",
-          "preview": "https://demos.afthemes.com/storeship-pro/liquor/"
+          "preview": "https://demos.afthemes.com/storeship-pro/liquor/",
+          "plugins": "woocommerce"
         },
         "retailer": {
           "name": "Retailer Pro",
           "catgory": "General",
           "slug": "retailer",
-          "preview": "https://demos.afthemes.com/storeship-pro/retailer/"
+          "preview": "https://demos.afthemes.com/storeship-pro/retailer/",
+          "plugins": "woocommerce"
         },
         "fashion": {
           "name": "Fashion Pro",
           "catgory": "Fashion",
           "slug": "fashion",
-          "preview": "https://demos.afthemes.com/storeship-pro/fashion/"
+          "preview": "https://demos.afthemes.com/storeship-pro/fashion/",
+          "plugins": "woocommerce"
         },
         "furniture": {
           "name": "Furniture Pro",
           "catgory": "Furniture",
           "slug": "furniture",
-          "preview": "https://demos.afthemes.com/storeship-pro/furniture/"
+          "preview": "https://demos.afthemes.com/storeship-pro/furniture/",
+          "plugins": "woocommerce"
         },
         "restaurant": {
           "name": "Restaurant Pro",
           "catgory": "Food and Beverage",
           "slug": "restaurant",
-          "preview": "https://demos.afthemes.com/storeship-pro/restaurant/"
+          "preview": "https://demos.afthemes.com/storeship-pro/restaurant/",
+          "plugins": "woocommerce"
         }
       }
     },
@@ -1784,13 +1794,15 @@
           "name": "Shopical",
           "catgory": "General",
           "slug": "shopical",
-          "preview": "https://demos.afthemes.com/shopical/"
+          "preview": "https://demos.afthemes.com/shopical/",
+          "plugins": "woocommerce"
         },
         "automobile": {
           "name": "Automobile",
           "catgory": "Automobile",
           "slug": "automobile",
-          "preview": "https://demos.afthemes.com/shopical/automobile/"
+          "preview": "https://demos.afthemes.com/shopical/automobile/",
+          "plugins": "woocommerce"
         }
       }
     },
@@ -1803,13 +1815,15 @@
           "name": "Shopical Pro",
           "catgory": "General",
           "slug": "shopical-pro",
-          "preview": "https://demos.afthemes.com/shopical-pro/"
+          "preview": "https://demos.afthemes.com/shopical-pro/",
+          "plugins": "woocommerce"
         },
         "gadgets-pro": {
           "name": "Gadgets Pro",
           "catgory": "Gadgets",
           "slug": "gadgets-pro",
-          "preview": "https://demos.afthemes.com/shopical-pro/gadgets/"
+          "preview": "https://demos.afthemes.com/shopical-pro/gadgets/",
+          "plugins": "woocommerce"
         }
       }
     },
@@ -1822,7 +1836,8 @@
           "name": "Shopage",
           "catgory": "General",
           "slug": "shopage",
-          "preview": "https://demos.afthemes.com/shopical/shopage/"
+          "preview": "https://demos.afthemes.com/shopical/shopage/",
+          "plugins": "woocommerce"
         }
       }
     },
@@ -1992,7 +2007,8 @@
           "name": "Storekeeper",
           "catgory": "General",
           "slug": "storekeeper",
-          "preview": "https://demos.afthemes.com/storecommerce/storekeeper/"
+          "preview": "https://demos.afthemes.com/storecommerce/storekeeper/",
+          "plugins": "woocommerce"
         }
       }
     },
@@ -2005,19 +2021,22 @@
           "name": "Storecommerce",
           "catgory": "General",
           "slug": "storecommerce",
-          "preview": "https://demos.afthemes.com/storecommerce/"
+          "preview": "https://demos.afthemes.com/storecommerce/",
+          "plugins": "woocommerce"
         },
         "gadgets": {
           "name": "Gadgets",
           "catgory": "Gadgets",
           "slug": "gadgets",
-          "preview": "https://demos.afthemes.com/storecommerce/gadgets"
+          "preview": "https://demos.afthemes.com/storecommerce/gadgets",
+          "plugins": "woocommerce"
         },
         "interior": {
           "name": "Interior",
           "catgory": "Interior",
           "slug": "interior",
-          "preview": "https://demos.afthemes.com/storecommerce/interior"
+          "preview": "https://demos.afthemes.com/storecommerce/interior",
+          "plugins": "woocommerce"
         }
       }
     },
@@ -2030,31 +2049,36 @@
           "name": "Storecommerce Pro",
           "catgory": "General",
           "slug": "storecommerce-pro",
-          "preview": "https://demos.afthemes.com/storecommerce-pro/"
+          "preview": "https://demos.afthemes.com/storecommerce-pro/",
+          "plugins": "woocommerce"
         },
         "gadgets-pro": {
           "name": "Gadgets Pro",
           "catgory": "Gadgets",
           "slug": "gadgets-pro",
-          "preview": "https://demos.afthemes.com/storecommerce-pro/gadgets"
+          "preview": "https://demos.afthemes.com/storecommerce-pro/gadgets",
+          "plugins": "woocommerce"
         },
         "interior-pro": {
           "name": "Interior Pro",
           "catgory": "Interior",
           "slug": "interior-pro",
-          "preview": "https://demos.afthemes.com/storecommerce-pro/interior"
+          "preview": "https://demos.afthemes.com/storecommerce-pro/interior",
+          "plugins": "woocommerce"
         },
         "automobile-pro": {
           "name": "Automobile Pro",
           "catgory": "Automobile",
           "slug": "automobile-pro",
-          "preview": "https://demos.afthemes.com/storecommerce-pro/automobile"
+          "preview": "https://demos.afthemes.com/storecommerce-pro/automobile",
+          "plugins": "woocommerce"
         },
         "just-food-pro": {
           "name": "Just Food Pro",
           "catgory": "Food",
           "slug": "just-food-pro",
-          "preview": "https://demos.afthemes.com/storecommerce-pro/just-food"
+          "preview": "https://demos.afthemes.com/storecommerce-pro/just-food",
+          "plugins": "woocommerce"
         }
       }
     },

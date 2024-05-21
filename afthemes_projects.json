@@ -280,6 +280,55 @@
           "catgory": "Business",
           "slug": "crypto-news",
           "preview": "https://demos.afthemes.com/covernews/crypto-news/"
+        },
+        "cover-chrome": {
+          "name": "Cover Chrome",
+          "catgory": "Gutenberg",
+          "slug": "cover-chrome",
+          "preview": "https://demos.afthemes.com/covernews/cover-chrome/",
+          "plugins": "blockspare"
+        },
+        "coverchrome-dark": {
+          "name": "CoverChrome Dark",
+          "catgory": "Gutenberg",
+          "slug": "coverchrome-dark",
+          "preview": "https://demos.afthemes.com/covernews/newschrome-dark/",
+          "plugins": "blockspare"
+        },
+        "coverdark-block": {
+          "name": "Coverdark Block",
+          "catgory": "Gutenberg",
+          "slug": "coverdark-block",
+          "preview": "https://demos.afthemes.com/covernews/darkblock/",
+          "plugins": "blockspare"
+        },
+        "coverenter-block": {
+          "name": "Coverenter Block",
+          "catgory": "Gutenberg",
+          "slug": "coverenter-block",
+          "preview": "https://demos.afthemes.com/covernews/enterblock/",
+          "plugins": "blockspare"
+        },
+        "coverever-block": {
+          "name": "Coverever Block",
+          "catgory": "Gutenberg",
+          "slug": "coverever-block",
+          "preview": "https://demos.afthemes.com/covernews/everblock/",
+          "plugins": "blockspare"
+        },
+        "more-block": {
+          "name": "More Block",
+          "catgory": "Gutenberg",
+          "slug": "more-block",
+          "preview": "https://demos.afthemes.com/covernews/cover-more/",
+          "plugins": "blockspare"
+        },
+        "news-block": {
+          "name": "News Block",
+          "catgory": "Gutenberg",
+          "slug": "news-block",
+          "preview": "https://demos.afthemes.com/covernews/cover-sphere/",
+          "plugins": "blockspare"
         }
       }
     },

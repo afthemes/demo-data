@@ -1018,22 +1018,19 @@
           "name": "Storeship",
           "catgory": "General",
           "slug": "storeship",
-          "preview": "https://demos.afthemes.com/storeship/",
-          "plugins": "woocommerce"
+          "preview": "https://demos.afthemes.com/storeship/"
         },
         "fashion": {
           "name": "Fashion",
           "catgory": "Fashion",
           "slug": "fashion",
-          "preview": "https://demos.afthemes.com/storeship/fashion/",
-          "plugins": "woocommerce"
+          "preview": "https://demos.afthemes.com/storeship/fashion/"
         },
         "furniture": {
           "name": "Furniture",
           "catgory": "Furniture",
           "slug": "furniture",
-          "preview": "https://demos.afthemes.com/storeship/furniture/",
-          "plugins": "woocommerce"
+          "preview": "https://demos.afthemes.com/storeship/furniture/"
         }
       }
     },
@@ -1046,8 +1043,7 @@
           "name": "FoodShop",
           "catgory": "Food and Beverage",
           "slug": "foodshop",
-          "preview": "https://demos.afthemes.com/storeship/foodshop/",
-          "plugins": "woocommerce"
+          "preview": "https://demos.afthemes.com/storeship/foodshop/"
         }
       }
     },
@@ -1060,43 +1056,37 @@
           "name": "Storeship Pro",
           "catgory": "General",
           "slug": "storeship-pro",
-          "preview": "https://demos.afthemes.com/storeship-pro/",
-          "plugins": "woocommerce"
+          "preview": "https://demos.afthemes.com/storeship-pro/"
         },
         "liquor": {
           "name": "Liquor Pro",
           "catgory": "Food and Beverage",
           "slug": "liquor",
-          "preview": "https://demos.afthemes.com/storeship-pro/liquor/",
-          "plugins": "woocommerce"
+          "preview": "https://demos.afthemes.com/storeship-pro/liquor/"
         },
         "retailer": {
           "name": "Retailer Pro",
           "catgory": "General",
           "slug": "retailer",
-          "preview": "https://demos.afthemes.com/storeship-pro/retailer/",
-          "plugins": "woocommerce"
+          "preview": "https://demos.afthemes.com/storeship-pro/retailer/"
         },
         "fashion": {
           "name": "Fashion Pro",
           "catgory": "Fashion",
           "slug": "fashion",
-          "preview": "https://demos.afthemes.com/storeship-pro/fashion/",
-          "plugins": "woocommerce"
+          "preview": "https://demos.afthemes.com/storeship-pro/fashion/"
         },
         "furniture": {
           "name": "Furniture Pro",
           "catgory": "Furniture",
           "slug": "furniture",
-          "preview": "https://demos.afthemes.com/storeship-pro/furniture/",
-          "plugins": "woocommerce"
+          "preview": "https://demos.afthemes.com/storeship-pro/furniture/"
         },
         "restaurant": {
           "name": "Restaurant Pro",
           "catgory": "Food and Beverage",
           "slug": "restaurant",
-          "preview": "https://demos.afthemes.com/storeship-pro/restaurant/",
-          "plugins": "woocommerce"
+          "preview": "https://demos.afthemes.com/storeship-pro/restaurant/"
         }
       }
     },
@@ -1843,15 +1833,13 @@
           "name": "Shopical",
           "catgory": "General",
           "slug": "shopical",
-          "preview": "https://demos.afthemes.com/shopical/",
-          "plugins": "woocommerce"
+          "preview": "https://demos.afthemes.com/shopical/"
         },
         "automobile": {
           "name": "Automobile",
           "catgory": "Automobile",
           "slug": "automobile",
-          "preview": "https://demos.afthemes.com/shopical/automobile/",
-          "plugins": "woocommerce"
+          "preview": "https://demos.afthemes.com/shopical/automobile/"
         }
       }
     },
@@ -1864,15 +1852,13 @@
           "name": "Shopical Pro",
           "catgory": "General",
           "slug": "shopical-pro",
-          "preview": "https://demos.afthemes.com/shopical-pro/",
-          "plugins": "woocommerce"
+          "preview": "https://demos.afthemes.com/shopical-pro/"
         },
         "gadgets-pro": {
           "name": "Gadgets Pro",
           "catgory": "Gadgets",
           "slug": "gadgets-pro",
-          "preview": "https://demos.afthemes.com/shopical-pro/gadgets/",
-          "plugins": "woocommerce"
+          "preview": "https://demos.afthemes.com/shopical-pro/gadgets/"
         }
       }
     },
@@ -1885,8 +1871,7 @@
           "name": "Shopage",
           "catgory": "General",
           "slug": "shopage",
-          "preview": "https://demos.afthemes.com/shopical/shopage/",
-          "plugins": "woocommerce"
+          "preview": "https://demos.afthemes.com/shopical/shopage/"
         }
       }
     },
@@ -2056,8 +2041,7 @@
           "name": "Storekeeper",
           "catgory": "General",
           "slug": "storekeeper",
-          "preview": "https://demos.afthemes.com/storecommerce/storekeeper/",
-          "plugins": "woocommerce"
+          "preview": "https://demos.afthemes.com/storecommerce/storekeeper/"
         }
       }
     },
@@ -2070,22 +2054,19 @@
           "name": "Storecommerce",
           "catgory": "General",
           "slug": "storecommerce",
-          "preview": "https://demos.afthemes.com/storecommerce/",
-          "plugins": "woocommerce"
+          "preview": "https://demos.afthemes.com/storecommerce/"
         },
         "gadgets": {
           "name": "Gadgets",
           "catgory": "Gadgets",
           "slug": "gadgets",
-          "preview": "https://demos.afthemes.com/storecommerce/gadgets",
-          "plugins": "woocommerce"
+          "preview": "https://demos.afthemes.com/storecommerce/gadgets"
         },
         "interior": {
           "name": "Interior",
           "catgory": "Interior",
           "slug": "interior",
-          "preview": "https://demos.afthemes.com/storecommerce/interior",
-          "plugins": "woocommerce"
+          "preview": "https://demos.afthemes.com/storecommerce/interior"
         }
       }
     },
@@ -2098,36 +2079,31 @@
           "name": "Storecommerce Pro",
           "catgory": "General",
           "slug": "storecommerce-pro",
-          "preview": "https://demos.afthemes.com/storecommerce-pro/",
-          "plugins": "woocommerce"
+          "preview": "https://demos.afthemes.com/storecommerce-pro/"
         },
         "gadgets-pro": {
           "name": "Gadgets Pro",
           "catgory": "Gadgets",
           "slug": "gadgets-pro",
-          "preview": "https://demos.afthemes.com/storecommerce-pro/gadgets",
-          "plugins": "woocommerce"
+          "preview": "https://demos.afthemes.com/storecommerce-pro/gadgets"
         },
         "interior-pro": {
           "name": "Interior Pro",
           "catgory": "Interior",
           "slug": "interior-pro",
-          "preview": "https://demos.afthemes.com/storecommerce-pro/interior",
-          "plugins": "woocommerce"
+          "preview": "https://demos.afthemes.com/storecommerce-pro/interior"
         },
         "automobile-pro": {
           "name": "Automobile Pro",
           "catgory": "Automobile",
           "slug": "automobile-pro",
-          "preview": "https://demos.afthemes.com/storecommerce-pro/automobile",
-          "plugins": "woocommerce"
+          "preview": "https://demos.afthemes.com/storecommerce-pro/automobile"
         },
         "just-food-pro": {
           "name": "Just Food Pro",
           "catgory": "Food",
           "slug": "just-food-pro",
-          "preview": "https://demos.afthemes.com/storecommerce-pro/just-food",
-          "plugins": "woocommerce"
+          "preview": "https://demos.afthemes.com/storecommerce-pro/just-food"
         }
       }
     },
@@ -2327,11 +2303,11 @@
           "slug": "german",
           "preview": "https://demos.afthemes.com/chromenews/german"
         },
-        "blocknews-dark": {
-          "name": "ChromeNews Block Dark",
+        "essential-news": {
+          "name": "Essential News",
           "catgory": "Gutenberg",
-          "slug": "blocknews-dark",
-          "preview": "https://demos.afthemes.com/chromenews/blocknews-dark/",
+          "slug": "essential-news",
+          "preview": "https://demos.afthemes.com/chromenews/essential-news/",
           "plugins":"blockspare"
         },
         "business": {
@@ -2416,7 +2392,76 @@
           "slug": "restaurant",
           "preview": "https://demos.afthemes.com/chromenews/restaurant/",
           "plugins":"elementor,elespare"
-
+        },
+        "blogmag": {
+          "name": "BlogMag",
+          "catgory": "Gutenberg",
+          "slug": "blogmag",
+          "preview": "https://demos.afthemes.com/chromenews/blogmag/",
+          "plugins":"blockspare"
+        },
+        "newsbox": {
+          "name": "NewsBox",
+          "catgory": "Gutenberg",
+          "slug": "newsbox",
+          "preview": "https://demos.afthemes.com/chromenews/newsbox/",
+          "plugins":"blockspare"
+        },
+        "newsblock": {
+          "name": "NewsBlock",
+          "catgory": "Gutenberg",
+          "slug": "newsblock",
+          "preview": "https://demos.afthemes.com/chromenews/newsblock/",
+          "plugins":"blockspare"
+        },
+        "horizon-headlines": {
+          "name": "Horizon Headlines",
+          "catgory": "Gutenberg",
+          "slug": "horizon-headlines",
+          "preview": "https://demos.afthemes.com/chromenews/horizon-headlines/",
+          "plugins":"blockspare"
+        },
+        "insightful-news": {
+          "name": "Insightful News",
+          "catgory": "Gutenberg",
+          "slug": "insightful-news",
+          "preview": "https://demos.afthemes.com/chromenews/insightful-news/",
+          "plugins":"blockspare"
+        },
+        "world-watch": {
+          "name": "World Watch",
+          "catgory": "Gutenberg",
+          "slug": "world-watch",
+          "preview": "https://demos.afthemes.com/chromenews/world-watch/",
+          "plugins":"blockspare"
+        },
+        "prime-press": {
+          "name": "Prime Press",
+          "catgory": "Gutenberg",
+          "slug": "prime-press",
+          "preview": "https://demos.afthemes.com/chromenews/prime-press/",
+          "plugins":"blockspare"
+        },
+        "rapid-report": {
+          "name": "Rapid Report",
+          "catgory": "Gutenberg",
+          "slug": "rapid-report",
+          "preview": "https://demos.afthemes.com/chromenews/rapid-report/",
+          "plugins":"blockspare"
+        },
+        "flash-network": {
+          "name": "Flash Network",
+          "catgory": "Gutenberg",
+          "slug": "flash-network",
+          "preview": "https://demos.afthemes.com/chromenews/flash-network/",
+          "plugins":"blockspare"
+        },
+        "news-nexus": {
+          "name": "News Nexus",
+          "catgory": "Gutenberg",
+          "slug": "news-nexus",
+          "preview": "https://demos.afthemes.com/chromenews/news-nexus/",
+          "plugins":"blockspare"
         }
       }
     },

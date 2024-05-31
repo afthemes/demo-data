@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.5.3" created="2024-05-28 06:13" -->
+	<!-- generator="WordPress/6.5.3" created="2024-05-29 08:52" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Prime Press</title>
 	<link>https://demos.afthemes.com/chromenews/prime-press</link>
 	<description>Just another WordPress site</description>
-	<pubDate>Tue, 28 May 2024 06:13:18 +0000</pubDate>
+	<pubDate>Wed, 29 May 2024 08:52:59 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demos.afthemes.com/chromenews/</wp:base_site_url>
@@ -1842,7 +1842,11 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_is_custom_header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[newschrome]]></wp:meta_value>
+		<wp:meta_value><![CDATA[chromenews]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_custom_header_last_used_chromenews]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1716972729]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -7488,8 +7492,8 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="business"><![CDATA[Business]]></category>
 		<category domain="post_tag" nicename="newsbeat"><![CDATA[Newsbeat]]></category>
-		<category domain="category" nicename="stories"><![CDATA[Stories]]></category>
 		<category domain="post_tag" nicename="stories"><![CDATA[Stories]]></category>
+		<category domain="category" nicename="stories"><![CDATA[Stories]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[estory-meta-content-alignment]]></wp:meta_key>
 		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
@@ -8171,8 +8175,8 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="business"><![CDATA[Business]]></category>
-		<category domain="post_tag" nicename="newsbeat"><![CDATA[Newsbeat]]></category>
 		<category domain="category" nicename="newsbeat"><![CDATA[Newsbeat]]></category>
+		<category domain="post_tag" nicename="newsbeat"><![CDATA[Newsbeat]]></category>
 		<category domain="post_format" nicename="post-format-video"><![CDATA[Video]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[estory-meta-content-alignment]]></wp:meta_key>
@@ -8353,8 +8357,8 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="post_tag" nicename="business"><![CDATA[Business]]></category>
-		<category domain="category" nicename="business"><![CDATA[Business]]></category>
+										<category domain="category" nicename="business"><![CDATA[Business]]></category>
+		<category domain="post_tag" nicename="business"><![CDATA[Business]]></category>
 		<category domain="category" nicename="newsbeat"><![CDATA[Newsbeat]]></category>
 		<category domain="post_tag" nicename="newsbeat"><![CDATA[Newsbeat]]></category>
 						<wp:postmeta>
@@ -8552,8 +8556,8 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="business"><![CDATA[Business]]></category>
-		<category domain="post_tag" nicename="business"><![CDATA[Business]]></category>
+										<category domain="post_tag" nicename="business"><![CDATA[Business]]></category>
+		<category domain="category" nicename="business"><![CDATA[Business]]></category>
 		<category domain="post_format" nicename="post-format-video"><![CDATA[Video]]></category>
 		<category domain="post_tag" nicename="world"><![CDATA[World]]></category>
 						<wp:postmeta>

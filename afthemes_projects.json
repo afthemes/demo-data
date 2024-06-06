@@ -1,5 +1,19 @@
 {
   "democontent": {
+    "elenews": {
+      "data": "elenews",
+      "free": "covernews",
+      "premium": "covernews-pro",
+      "demodata": {
+        "default": {
+          "name": "EleNews",
+          "catgory": "Elementor",
+          "slug": "elenews",
+          "preview": "https://demos.afthemes.com/covernews/elenews/",
+          "plugins": "elementor,elespare"
+          }
+        }
+      },
     "hybridnews": {
       "data": "hybridnews",
       "free": "covernews",
@@ -1824,11 +1838,11 @@
           "preview": "https://demos.afthemes.com/morenews/rapid-update/",
           "plugins": "blockspare"
         },
-        "trused-times": {
+        "trusted-times": {
           "name": "Trusted Times",
           "catgory": "Gutenberg",
-          "slug": "trused-times",
-          "preview": "https://demos.afthemes.com/morenews/trused-times/",
+          "slug": "trusted-times",
+          "preview": "https://demos.afthemes.com/morenews/trusted-times/",
           "plugins": "blockspare"
         }
       }

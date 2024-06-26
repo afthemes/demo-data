@@ -2921,6 +2921,31 @@
           "preview": "https://demos.afthemes.com/broadnews-pro/large/"
         }
       }
+    },          
+    "reviewnews-pro": {
+      "data": "reviewnews-pro",
+      "free": "reviewnews",
+      "premium": "",
+      "demodata": {
+        "default": {
+          "name": "ReviewNews Pro",
+          "catgory": "General",
+          "slug": "reviewnews-pro",
+          "preview": "https://demos.afthemes.com/reviewnews-pro/"
+        },
+        "recipe": {
+          "name": "Recipe Pro",
+          "catgory": "Fashion",
+          "slug": "recipe",
+          "preview": "https://demos.afthemes.com/reviewnews-pro/recipe/"
+        },
+        "sport": {
+          "name": "Sport Pro",
+          "catgory": "Sport",
+          "slug": "sport",
+          "preview": "https://demos.afthemes.com/reviewnews-pro/sport/"
+        }
+      }
     }          
   }
 } 

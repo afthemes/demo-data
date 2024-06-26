@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.5.4" created="2024-06-24 07:51" -->
+	<!-- generator="WordPress/6.5.5" created="2024-06-26 04:26" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>EleNews</title>
 	<link>https://demos.afthemes.com/covernews/elenews</link>
 	<description>Elementor x CoverNews</description>
-	<pubDate>Mon, 24 Jun 2024 07:51:24 +0000</pubDate>
+	<pubDate>Wed, 26 Jun 2024 04:26:58 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demos.afthemes.com/covernews/</wp:base_site_url>
@@ -107,7 +107,7 @@
 	<wp:term><wp:term_id>16</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[top-menu-items]]></wp:term_slug><wp:term_name><![CDATA[Top menu items]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=6.5.4</generator>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
 
 <image>
 	<url>https://demos.afthemes.com/covernews/elenews/wp-content/uploads/sites/45/2018/08/af-themes-main-dark-1-150x150.png</url>
@@ -11729,8 +11729,8 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		<wp:post_id>30</wp:post_id>
 		<wp:post_date><![CDATA[2024-05-16 09:30:05]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-05-16 09:30:05]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-06-05 10:34:58]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-06-05 10:34:58]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-06-26 04:26:44]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-06-26 04:26:44]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[business-booming-for-giant-cargo-planes]]></wp:post_name>
@@ -11813,6 +11813,10 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>2</wp:comment_id>
@@ -12754,6 +12758,14 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="How to Create a Website in Minutes: Step-by-Step Guide for Beginners (Using WordPress)" width="640" height="360" src="https://www.youtube.com/embed/t7LMDLRE8Ok?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_eb18aa4846dcf41d3a79f0fd0ad6cca9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1719312710]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>

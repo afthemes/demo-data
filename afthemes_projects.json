@@ -181,19 +181,6 @@
           "slug": "sport",
           "preview": "https://demos.afthemes.com/covernews/sport/"
         },
-        "gadgets": {
-          "name": "Gadgets",
-          "catgory": "Business",
-          "slug": "gadgets",
-          "preview": "https://demos.afthemes.com/covernews/gadgets/"
-        },
-        "hybridnews-dark": {
-          "name": "HybridNews Dark",
-          "catgory": "Gutenberg",
-          "slug": "hybridnews-dark",
-          "preview": "https://demos.afthemes.com/covernews/hybridnews-dark/",
-          "plugins": "blockspare"
-        },
         "arabic-news": {
           "name": "عربي",
           "catgory": "General",
@@ -242,11 +229,96 @@
           "slug": "german",
           "preview": "https://demos.afthemes.com/covernews/german"
         },
-        "business": {
-          "name": "Business",
-          "catgory": "Business",
-          "slug": "business",
-          "preview": "https://demos.afthemes.com/covernews/business"
+        "decoration-blog": {
+          "name": "Decoration Blog",
+          "catgory": "Elementor",
+          "slug": "decoration-blog",
+          "preview": "https://demos.afthemes.com/covernews/decoration-blog",
+          "plugins": "elementor,elespare"
+        },
+        "health-tips": {
+          "name": "Health Tips",
+          "catgory": "Elementor",
+          "slug": "health-tips",
+          "preview": "https://demos.afthemes.com/covernews/health-tips",
+          "plugins": "elementor,elespare"
+        },
+        "photography-blog": {
+          "name": "Photography Blog",
+          "catgory": "Elementor",
+          "slug": "photography-blog",
+          "preview": "https://demos.afthemes.com/covernews/photography-blog",
+          "plugins": "elementor,elespare"
+        },
+        "tasty-blog": {
+          "name": "Tasty Blog",
+          "catgory": "Elementor",
+          "slug": "tasty-blog",
+          "preview": "https://demos.afthemes.com/covernews/tasty-blog",
+          "plugins": "elementor,elespare"
+        },
+        "trekking-school": {
+          "name": "Trekking School",
+          "catgory": "Elementor",
+          "slug": "trekking-school",
+          "preview": "https://demos.afthemes.com/covernews/trekking-school",
+          "plugins": "elementor,elespare"
+        },
+        "cover-chrome": {
+          "name": "Cover Chrome",
+          "catgory": "Gutenberg",
+          "slug": "cover-chrome",
+          "preview": "https://demos.afthemes.com/covernews/cover-chrome/",
+          "plugins": "blockspare"
+        },
+        "newschrome-dark": {
+          "name": "NewsChrome Dark",
+          "catgory": "Gutenberg",
+          "slug": "newschrome-dark",
+          "preview": "https://demos.afthemes.com/covernews/newschrome-dark/",
+          "plugins": "blockspare"
+        },
+        "coverdark-block": {
+          "name": "Coverdark Block",
+          "catgory": "Gutenberg",
+          "slug": "coverdark-block",
+          "preview": "https://demos.afthemes.com/covernews/darkblock/",
+          "plugins": "blockspare"
+        },
+        "hybridnews-dark": {
+          "name": "HybridNews Dark",
+          "catgory": "Gutenberg",
+          "slug": "hybridnews-dark",
+          "preview": "https://demos.afthemes.com/covernews/hybridnews-dark/",
+          "plugins": "blockspare"
+        },
+        "coverenter-block": {
+          "name": "Coverenter Block",
+          "catgory": "Gutenberg",
+          "slug": "coverenter-block",
+          "preview": "https://demos.afthemes.com/covernews/enterblock/",
+          "plugins": "blockspare"
+        },
+        "coverever-block": {
+          "name": "Coverever Block",
+          "catgory": "Gutenberg",
+          "slug": "coverever-block",
+          "preview": "https://demos.afthemes.com/covernews/everblock/",
+          "plugins": "blockspare"
+        },
+        "more-block": {
+          "name": "More Block",
+          "catgory": "Gutenberg",
+          "slug": "more-block",
+          "preview": "https://demos.afthemes.com/covernews/cover-more/",
+          "plugins": "blockspare"
+        },
+        "news-block": {
+          "name": "News Block",
+          "catgory": "Gutenberg",
+          "slug": "news-block",
+          "preview": "https://demos.afthemes.com/covernews/cover-sphere/",
+          "plugins": "blockspare"
         },
         "covid": {
           "name": "Covid 19",
@@ -289,60 +361,23 @@
           "preview": "https://demos.afthemes.com/covernews/vegetables/",
           "plugins": "elementor,elespare"
         },
+        "business": {
+          "name": "Business",
+          "catgory": "Business",
+          "slug": "business",
+          "preview": "https://demos.afthemes.com/covernews/business"
+        },
+        "gadgets": {
+          "name": "Gadgets",
+          "catgory": "Business",
+          "slug": "gadgets",
+          "preview": "https://demos.afthemes.com/covernews/gadgets/"
+        },
         "crypto-news": {
           "name": "Crypto News",
           "catgory": "Business",
           "slug": "crypto-news",
           "preview": "https://demos.afthemes.com/covernews/crypto-news/"
-        },
-        "cover-chrome": {
-          "name": "Cover Chrome",
-          "catgory": "Gutenberg",
-          "slug": "cover-chrome",
-          "preview": "https://demos.afthemes.com/covernews/cover-chrome/",
-          "plugins": "blockspare"
-        },
-        "coverchrome-dark": {
-          "name": "CoverChrome Dark",
-          "catgory": "Gutenberg",
-          "slug": "coverchrome-dark",
-          "preview": "https://demos.afthemes.com/covernews/newschrome-dark/",
-          "plugins": "blockspare"
-        },
-        "coverdark-block": {
-          "name": "Coverdark Block",
-          "catgory": "Gutenberg",
-          "slug": "coverdark-block",
-          "preview": "https://demos.afthemes.com/covernews/darkblock/",
-          "plugins": "blockspare"
-        },
-        "coverenter-block": {
-          "name": "Coverenter Block",
-          "catgory": "Gutenberg",
-          "slug": "coverenter-block",
-          "preview": "https://demos.afthemes.com/covernews/enterblock/",
-          "plugins": "blockspare"
-        },
-        "coverever-block": {
-          "name": "Coverever Block",
-          "catgory": "Gutenberg",
-          "slug": "coverever-block",
-          "preview": "https://demos.afthemes.com/covernews/everblock/",
-          "plugins": "blockspare"
-        },
-        "more-block": {
-          "name": "More Block",
-          "catgory": "Gutenberg",
-          "slug": "more-block",
-          "preview": "https://demos.afthemes.com/covernews/cover-more/",
-          "plugins": "blockspare"
-        },
-        "news-block": {
-          "name": "News Block",
-          "catgory": "Gutenberg",
-          "slug": "news-block",
-          "preview": "https://demos.afthemes.com/covernews/cover-sphere/",
-          "plugins": "blockspare"
         }
       }
     },
@@ -2420,96 +2455,6 @@
           "slug": "german",
           "preview": "https://demos.afthemes.com/chromenews/german"
         },
-        "essential-news": {
-          "name": "Essential News",
-          "catgory": "Gutenberg",
-          "slug": "essential-news",
-          "preview": "https://demos.afthemes.com/chromenews/essential-news/",
-          "plugins":"blockspare"
-        },
-        "business": {
-          "name": "Business",
-          "catgory": "Elementor",
-          "slug": "business",
-          "preview": "https://demos.afthemes.com/chromenews/business/",
-          "plugins":"elementor,elespare"
-        },
-        "gaming": {
-          "name": "Gaming",
-          "catgory": "Blog",
-          "slug": "gaming",
-          "preview": "https://demos.afthemes.com/chromenews/gaming/"
-        },
-        "automobile": {
-          "name": "Automobile",
-          "catgory": "Blog",
-          "slug": "automobile",
-          "preview": "https://demos.afthemes.com/chromenews/automobile/"
-        },
-        "construction-blog": {
-          "name": "Construction Blog",
-          "catgory": "Blog",
-          "slug": "construction-blog",
-          "preview": "https://demos.afthemes.com/chromenews/construction-blog/"
-        },
-        "recipe": {
-          "name": "Recipe",
-          "catgory": "Blog",
-          "slug": "recipe",
-          "preview": "https://demos.afthemes.com/chromenews/recipe"
-        },
-        "travel": {
-          "name": "Travel",
-          "catgory": "Blog",
-          "slug": "travel",
-          "preview": "https://demos.afthemes.com/chromenews/travel"
-        },
-        "online-news": {
-          "name": "Online News",
-          "catgory": "News",
-          "slug": "online-news",
-          "preview": "https://demos.afthemes.com/chromenews/online-news"
-        },
-        "feminine-blog": {
-          "name": "Feminine Blog",
-          "catgory": "Blog",
-          "slug": "feminine-blog",
-          "preview": "https://demos.afthemes.com/chromenews/feminine-blog"
-        },
-        "minimal-blog": {
-          "name": "Minimal Blog",
-          "catgory": "Blog",
-          "slug": "minimal-blog",
-          "preview": "https://demos.afthemes.com/chromenews/minimal-blog"
-        },
-        "charity": {
-          "name": "Charity",
-          "catgory": "Gutenberg",
-          "slug": "charity",
-          "preview": "https://demos.afthemes.com/chromenews/charity",
-          "plugins":"blockspare,latest-posts-block-lite,magic-content-box-lite"
-        },
-        "covid-19": {
-          "name": "Covid 19",
-          "catgory": "Elementor",
-          "slug": "covid-19",
-          "preview": "https://demos.afthemes.com/chromenews/covid-19/",
-          "plugins":"elementor,elespare"
-        },
-        "beauty": {
-          "name": "Beauty",
-          "catgory": "Elementor",
-          "slug": "beauty",
-          "preview": "https://demos.afthemes.com/chromenews/beauty/",
-          "plugins":"elementor,elespare"
-        },
-        "restaurant": {
-          "name": "Restaurant",
-          "catgory": "Elementor",
-          "slug": "restaurant",
-          "preview": "https://demos.afthemes.com/chromenews/restaurant/",
-          "plugins":"elementor,elespare"
-        },
         "blockmag": {
           "name": "blockmag",
           "catgory": "Gutenberg",
@@ -2579,6 +2524,96 @@
           "slug": "news-nexus",
           "preview": "https://demos.afthemes.com/chromenews/news-nexus/",
           "plugins":"blockspare"
+        },
+        "essential-news": {
+          "name": "Essential News",
+          "catgory": "Gutenberg",
+          "slug": "essential-news",
+          "preview": "https://demos.afthemes.com/chromenews/essential-news/",
+          "plugins":"blockspare"
+        },
+        "covid-19": {
+          "name": "Covid 19",
+          "catgory": "Elementor",
+          "slug": "covid-19",
+          "preview": "https://demos.afthemes.com/chromenews/covid-19/",
+          "plugins":"elementor,elespare"
+        },
+        "beauty": {
+          "name": "Beauty",
+          "catgory": "Elementor",
+          "slug": "beauty",
+          "preview": "https://demos.afthemes.com/chromenews/beauty/",
+          "plugins":"elementor,elespare"
+        },
+        "restaurant": {
+          "name": "Restaurant",
+          "catgory": "Elementor",
+          "slug": "restaurant",
+          "preview": "https://demos.afthemes.com/chromenews/restaurant/",
+          "plugins":"elementor,elespare"
+        },
+        "business": {
+          "name": "Business",
+          "catgory": "Elementor",
+          "slug": "business",
+          "preview": "https://demos.afthemes.com/chromenews/business/",
+          "plugins":"elementor,elespare"
+        },
+        "gaming": {
+          "name": "Gaming",
+          "catgory": "Blog",
+          "slug": "gaming",
+          "preview": "https://demos.afthemes.com/chromenews/gaming/"
+        },
+        "automobile": {
+          "name": "Automobile",
+          "catgory": "Blog",
+          "slug": "automobile",
+          "preview": "https://demos.afthemes.com/chromenews/automobile/"
+        },
+        "construction-blog": {
+          "name": "Construction Blog",
+          "catgory": "Blog",
+          "slug": "construction-blog",
+          "preview": "https://demos.afthemes.com/chromenews/construction-blog/"
+        },
+        "recipe": {
+          "name": "Recipe",
+          "catgory": "Blog",
+          "slug": "recipe",
+          "preview": "https://demos.afthemes.com/chromenews/recipe"
+        },
+        "travel": {
+          "name": "Travel",
+          "catgory": "Blog",
+          "slug": "travel",
+          "preview": "https://demos.afthemes.com/chromenews/travel"
+        },
+        "online-news": {
+          "name": "Online News",
+          "catgory": "News",
+          "slug": "online-news",
+          "preview": "https://demos.afthemes.com/chromenews/online-news"
+        },
+        "feminine-blog": {
+          "name": "Feminine Blog",
+          "catgory": "Blog",
+          "slug": "feminine-blog",
+          "preview": "https://demos.afthemes.com/chromenews/feminine-blog"
+        },
+        "minimal-blog": {
+          "name": "Minimal Blog",
+          "catgory": "Blog",
+          "slug": "minimal-blog",
+          "preview": "https://demos.afthemes.com/chromenews/minimal-blog"
+        },
+        "charity": {
+          "name": "Charity",
+          "catgory": "Gutenberg",
+          "slug": "charity",
+          "preview": "https://demos.afthemes.com/chromenews/charity",
+          "plugins":"blockspare,latest-posts-block-lite,magic-content-box-lite"
         }
       }
     },

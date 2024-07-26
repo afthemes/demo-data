@@ -1516,6 +1516,19 @@
         }
       }
     },
+    "newsnal": {
+      "data": "newsnal",
+      "free": "darknews",
+      "premium": "darknews-pro",
+      "demodata": {
+        "default": {
+          "name": "Newsnal",
+          "catgory": "General",
+          "slug": "newsnal",
+          "preview": "https://demos.afthemes.com/darknews/newsnal/"
+        }
+      }
+    },
     "splashnews": {
       "data": "splashnews",
       "free": "darknews",

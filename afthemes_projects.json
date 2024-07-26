@@ -320,6 +320,62 @@
           "preview": "https://demos.afthemes.com/covernews/cover-sphere/",
           "plugins": "blockspare"
         },
+        "academic-study": {
+          "name": "Academic Study",
+          "catgory": "Gutenberg",
+          "slug": "academic-study",
+          "preview": "https://demos.afthemes.com/covernews/academic-study/",
+          "plugins": "blockspare"
+        },
+        "agency": {
+          "name": "Agency",
+          "catgory": "Gutenberg",
+          "slug": "agency",
+          "preview": "https://demos.afthemes.com/covernews/agency/",
+          "plugins": "blockspare"
+        },
+        "apps": {
+          "name": "Apps",
+          "catgory": "Gutenberg",
+          "slug": "apps",
+          "preview": "https://demos.afthemes.com/covernews/apps/",
+          "plugins": "blockspare"
+        },
+        "auto-deal": {
+          "name": "Auto Deal",
+          "catgory": "Gutenberg",
+          "slug": "auto-deal",
+          "preview": "https://demos.afthemes.com/covernews/auto-deal/",
+          "plugins": "blockspare"
+        },
+        "fitness": {
+          "name": "Fitness",
+          "catgory": "Gutenberg",
+          "slug": "fitness",
+          "preview": "https://demos.afthemes.com/covernews/fitness/",
+          "plugins": "blockspare"
+        },
+        "green-house": {
+          "name": "Green House",
+          "catgory": "Gutenberg",
+          "slug": "green-house",
+          "preview": "https://demos.afthemes.com/covernews/green-house/",
+          "plugins": "blockspare"
+        },
+        "real-estate": {
+          "name": "Real Estate",
+          "catgory": "Gutenberg",
+          "slug": "real-estate",
+          "preview": "https://demos.afthemes.com/covernews/real-estate/",
+          "plugins": "blockspare"
+        },
+        "my-portfolio": {
+          "name": "My Portfolio",
+          "catgory": "Gutenberg",
+          "slug": "my-portfolio",
+          "preview": "https://demos.afthemes.com/covernews/my-portfolio/",
+          "plugins": "blockspare"
+        },
         "covid": {
           "name": "Covid 19",
           "catgory": "Elementor",
@@ -2332,6 +2388,125 @@
           "catgory": "Blog",
           "slug": "travel-blog",
           "preview": "https://demos.afthemes.com/elegant-magazine/travel-blog/"
+        },
+        "attire-blog": {
+          "name": "Attire Blog",
+          "catgory": "Elementor",
+          "slug": "attire-blog",
+          "plugin": "elementor, elespare",
+          "preview": "https://demos.afthemes.com/elegant-magazine/attire-blog/"
+        },
+        "cardio-blog": {
+          "name": "Cardio Blog",
+          "catgory": "Elementor",
+          "slug": "cardio-blog",
+          "plugin": "elementor, elespare",
+          "preview": "https://demos.afthemes.com/elegant-magazine/cardio-blog/"
+        },
+        "entrepreneur-blog": {
+          "name": "Entrepreneur Blog",
+          "catgory": "Elementor",
+          "slug": "entrepreneur-blog",
+          "plugin": "elementor, elespare",
+          "preview": "https://demos.afthemes.com/elegant-magazine/entrepreneur-blog/"
+        },
+        "today-news": {
+          "name": "Today News",
+          "catgory": "Elementor",
+          "slug": "today-news",
+          "plugin": "elementor, elespare",
+          "preview": "https://demos.afthemes.com/elegant-magazine/today-news/"
+        },
+        "weekly-news": {
+          "name": "Weekly News",
+          "catgory": "Elementor",
+          "slug": "weekly-news",
+          "plugin": "elementor, elespare",
+          "preview": "https://demos.afthemes.com/elegant-magazine/weekly-news/"
+        },
+        "beach-restro": {
+          "name": "বিচ রেস্ট্রো",
+          "catgory": "Food and Beverage",
+          "slug": "beach-restro",
+          "preview": "https://demos.afthemes.com/elegant-magazine/beach-restro/"
+        },
+        "brazilian-music": {
+          "name": "MÚSICA BRASILEIRA",
+          "catgory": "Music",
+          "slug": "brazilian-music",
+          "preview": "https://demos.afthemes.com/elegant-magazine/brazilian-music/"
+        },
+        "chinese-cuisine": {
+          "name": "中国菜",
+          "catgory": "Recipe",
+          "slug": "chinese-cuisine",
+          "preview": "https://demos.afthemes.com/elegant-magazine/chinese-cuisine/"
+        },
+        "education-blog": {
+          "name": "ONDERWYSBLOG",
+          "catgory": "Education",
+          "slug": "education-blog",
+          "preview": "https://demos.afthemes.com/elegant-magazine/education-blog/"
+        },
+        "french-movie": {
+          "name": "FILMS FRANÇAIS",
+          "catgory": "Movie",
+          "slug": "french-movie",
+          "preview": "https://demos.afthemes.com/elegant-magazine/french-movie/"
+        },
+        "germanic-tales": {
+          "name": "GERMANISCHE GESCHICHTEN",
+          "catgory": "Historic",
+          "slug": "germanic-tales",
+          "preview": "https://demos.afthemes.com/elegant-magazine/germanic-tales/"
+        },
+        "indian-circket": {
+          "name": "भारतीय क्रिकेट",
+          "catgory": "Sport",
+          "slug": "indian-circket",
+          "preview": "https://demos.afthemes.com/elegant-magazine/indian-circket/"
+        },
+        "japanese-culture": {
+          "name": "日本文化",
+          "catgory": "Lifestyle",
+          "slug": "japanese-culture",
+          "preview": "https://demos.afthemes.com/elegant-magazine/japanese-culture/"
+        },
+        "korean-drama": {
+          "name": "한국 드라마",
+          "catgory": "Entertainment",
+          "slug": "korean-drama",
+          "preview": "https://demos.afthemes.com/elegant-magazine/korean-drama/"
+        },
+        "myanmar-news": {
+          "name": "မြန်မာသတင်း",
+          "catgory": "News",
+          "slug": "myanmar-news",
+          "preview": "https://demos.afthemes.com/elegant-magazine/myanmar-news/"
+        },
+        "nepal-journey": {
+          "name": "नेपाल यात्रा",
+          "catgory": "Travel",
+          "slug": "nepal-journey",
+          "preview": "https://demos.afthemes.com/elegant-magazine/nepal-journey/"
+        },
+        "romania-news": {
+          "name": "ȘTIRI DIN ROMÂNIA",
+          "catgory": "News",
+          "slug": "romania-news",
+          "preview": "https://demos.afthemes.com/elegant-magazine/romania-news/"
+        },
+        "russian-drinks": {
+          "name": "РУССКИЕ НАПИТКИ",
+          "catgory": "Food and Beverage",
+          "slug": "russian-drinks",
+          "preview": "https://demos.afthemes.com/elegant-magazine/russian-drinks/"
+        },
+        "tech-hub": {
+          "name": "CENTRO TECNOLÓGICO",
+          "catgory": "Tech",
+          "slug": "tech-hub",
+          "preview": "https://demos.afthemes.com/elegant-magazine/tech-hub/"
         }
       }
     },

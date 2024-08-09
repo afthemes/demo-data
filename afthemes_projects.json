@@ -1571,11 +1571,158 @@
           "slug": "fashion",
           "preview": "https://demos.afthemes.com/darknews/fashion/"
         } ,
+        "center-news": {
+          "name": "Center News",
+          "catgory": "Elementor",
+          "slug": "center-news",
+          "preview": "https://demos.afthemes.com/darknews/center-news/",
+          "plugins": "elementor,elespare"
+        },
+        "daily-news": {
+          "name": "Daily News",
+          "catgory": "Elementor",
+          "slug": "daily-news",
+          "preview": "https://demos.afthemes.com/darknews/daily-news/",
+          "plugins": "elementor,elespare"
+        },
+        "modern-news": {
+          "name": "Modern News",
+          "catgory": "Elementor",
+          "slug": "modern-news",
+          "preview": "https://demos.afthemes.com/darknews/modern-news/",
+          "plugins": "elementor,elespare"
+        },
+        "Simple Blog": {
+          "name": "Modern News",
+          "catgory": "Elementor",
+          "slug": "Simple Blog",
+          "preview": "https://demos.afthemes.com/darknews/Simple Blog/",
+          "plugins": "elementor,elespare"
+        },
+        "constant-feed": {
+          "name": "Constant Feed",
+          "catgory": "Gutenberg",
+          "slug": "constant-feed",
+          "preview": "https://demos.afthemes.com/darknews/constant-feed/",
+          "plugins": "blockspare"
+        },
+        "fast-facts": {
+          "name": "Fast Facts",
+          "catgory": "Gutenberg",
+          "slug": "fast-facts",
+          "preview": "https://demos.afthemes.com/darknews/fast-facts/",
+          "plugins": "blockspare"
+        },
+        "immediate-update": {
+          "name": "Immediate Update",
+          "catgory": "Gutenberg",
+          "slug": "immediate-update",
+          "preview": "https://demos.afthemes.com/darknews/immediate-update/",
+          "plugins": "blockspare"
+        },
+        "informed-daily": {
+          "name": "Informed Daily",
+          "catgory": "Gutenberg",
+          "slug": "informed-daily",
+          "preview": "https://demos.afthemes.com/darknews/informed-daily/",
+          "plugins": "blockspare"
+        },
+        "news-eyes": {
+          "name": "News Eyes",
+          "catgory": "Gutenberg",
+          "slug": "news-eyes",
+          "preview": "https://demos.afthemes.com/darknews/news-eyes/",
+          "plugins": "blockspare"
+        },
+        "news-journal": {
+          "name": "News Journal",
+          "catgory": "Gutenberg",
+          "slug": "news-journal",
+          "preview": "https://demos.afthemes.com/darknews/news-journal/",
+          "plugins": "blockspare"
+        },
+        "news-radar": {
+          "name": "News Radar",
+          "catgory": "Gutenberg",
+          "slug": "news-radar",
+          "preview": "https://demos.afthemes.com/darknews/news-radar/",
+          "plugins": "blockspare"
+        },
+        "news-source": {
+          "name": "News Source",
+          "catgory": "Gutenberg",
+          "slug": "news-source",
+          "preview": "https://demos.afthemes.com/darknews/news-source/",
+          "plugins": "blockspare"
+        },
+        "reliable-report": {
+          "name": "Reliable Report",
+          "catgory": "Gutenberg",
+          "slug": "reliable-report",
+          "preview": "https://demos.afthemes.com/darknews/reliable-report/",
+          "plugins": "blockspare"
+        },
+        "report-hub": {
+          "name": "Report Hub",
+          "catgory": "Gutenberg",
+          "slug": "report-hub",
+          "preview": "https://demos.afthemes.com/darknews/report-hub/",
+          "plugins": "blockspare"
+        },
+        "update-express": {
+          "name": "Update Express",
+          "catgory": "Gutenberg",
+          "slug": "update-express",
+          "preview": "https://demos.afthemes.com/darknews/update-express/",
+          "plugins": "blockspare"
+        },
         "classic": {
           "name": "Classic",
           "catgory": "General",
           "slug": "classic",
           "preview": "https://demos.afthemes.com/darknews/classic/"
+        },
+        "explore-spain": {
+          "name": "Explora España",
+          "catgory": "Spainese",
+          "slug": "explore-spain",
+          "preview": "https://demos.afthemes.com/darknews/explore-spain/"
+        },
+        "german-wheels": {
+          "name": "Deutsche Räder",
+          "catgory": "German",
+          "slug": "german-wheels",
+          "preview": "https://demos.afthemes.com/darknews/german-wheels/"
+        },
+        "islamic-architecture": {
+          "name": "العمارة الإسلامية",
+          "catgory": "Arabic",
+          "slug": "islamic-architecture",
+          "preview": "https://demos.afthemes.com/darknews/islamic-architecture/"
+        },
+        "japan-explore": {
+          "name": "日本 探検する",
+          "catgory": "Japanese",
+          "slug": "japan-explore",
+          "preview": "https://demos.afthemes.com/darknews/japan-explore/"
+        },
+        "martial-art": {
+          "name": "武术",
+          "catgory": "Chinese",
+          "slug": "martial-art",
+          "preview": "https://demos.afthemes.com/darknews/martial-art/"
+        },
+        "nepali-news": {
+          "name": "नेपाली समाचार",
+          "catgory": "Nepali",
+          "slug": "nepali-news",
+          "preview": "https://demos.afthemes.com/darknews/nepali-news/"
+        },
+        "russia-today": {
+          "name": "Classic",
+          "catgory": "Россия сегодня",
+          "slug": "russia-today",
+          "preview": "https://demos.afthemes.com/darknews/russia-today/"
         },
         "gaming": {
           "name": "Gaming",

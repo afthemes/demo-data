@@ -851,6 +851,41 @@
           "slug": "china-news",
           "preview": "https://demos.afthemes.com/newsium/china-news/"
         },
+        "decor-blog": {
+          "name": "Decor Blog",
+          "catgory": "Elementor",
+          "slug": "decor-blog",
+          "preview": "https://demos.afthemes.com/newsium/decor-blog/",
+          "plugins": "elementor,elespare"
+        },
+        "financing-blog": {
+          "name": "Financing Blog",
+          "catgory": "Elementor",
+          "slug": "financing-blog",
+          "preview": "https://demos.afthemes.com/newsium/financing-blog/",
+          "plugins": "elementor,elespare"
+        },
+        "football-blog": {
+          "name": "Football Blog",
+          "catgory": "Elementor",
+          "slug": "football-blog",
+          "preview": "https://demos.afthemes.com/newsium/football-blog/",
+          "plugins": "elementor,elespare"
+        },
+        "safari-blog": {
+          "name": "Safari Blog",
+          "catgory": "Elementor",
+          "slug": "safari-blog",
+          "preview": "https://demos.afthemes.com/newsium/safari-blog/",
+          "plugins": "elementor,elespare"
+        },
+        "historic-blog": {
+          "name": "Safari Blog",
+          "catgory": "Elementor",
+          "slug": "historic-blog",
+          "preview": "https://demos.afthemes.com/newsium/historic-blog/",
+          "plugins": "elementor,elespare"
+        },
         "cars-blog": {
           "name": "Cars Blog",
           "catgory": "Elementor",
@@ -1050,6 +1085,41 @@
           "catgory": "General",
           "slug": "china-news",
           "preview": "https://demos.afthemes.com/newsphere/china-news/"
+        },
+        "asian-blog": {
+          "name": "Asian Blog",
+          "catgory": "Elementor",
+          "slug": "asian-blog",
+          "preview": "https://demos.afthemes.com/newsphere/asian-blog/",
+          "plugins": "elementor,elespare"
+        },
+        "diner-blog": {
+          "name": "Diner Blog",
+          "catgory": "Elementor",
+          "slug": "diner-blog",
+          "preview": "https://demos.afthemes.com/newsphere/diner-blog/",
+          "plugins": "elementor,elespare"
+        },
+        "european-news": {
+          "name": "European News",
+          "catgory": "Elementor",
+          "slug": "european-news",
+          "preview": "https://demos.afthemes.com/newsphere/european-news/",
+          "plugins": "elementor,elespare"
+        },
+        "trending-blog": {
+          "name": "Trending Blog",
+          "catgory": "Elementor",
+          "slug": "trending-blog",
+          "preview": "https://demos.afthemes.com/newsphere/trending-blog/",
+          "plugins": "elementor,elespare"
+        },
+        "weather-news": {
+          "name": "Weather News",
+          "catgory": "Elementor",
+          "slug": "weather-news",
+          "preview": "https://demos.afthemes.com/newsphere/weather-news/",
+          "plugins": "elementor,elespare"
         }
       }
     },
@@ -1896,6 +1966,19 @@
         }
       }
     },
+    "centralnews": {
+      "data": "centralnews",
+      "free": "morenews",
+      "premium": "morenews-pro",
+      "demodata": {
+        "default": {
+          "name": "Central News",
+          "catgory": "General",
+          "slug": "centralnews",
+          "preview": "https://demos.afthemes.com/morenews/centralnews/"
+        }
+      }
+    },
     "general-news": {
       "data": "general-news",
       "free": "morenews",
@@ -2253,6 +2336,41 @@
           "catgory": "General",
           "slug": "newsportal",
           "preview": "https://demos.afthemes.com/magnitude/newsportal/"
+        },
+        "daily-life": {
+          "name": "Daily Life",
+          "catgory": "Elementor",
+          "slug": "daily-life",
+          "preview": "https://demos.afthemes.com/magnitude/daily-life/",
+          "plugins": "elementor,elespare"
+        },
+        "journal-blog": {
+          "name": "Journal Blog",
+          "catgory": "Elementor",
+          "slug": "journal-blog",
+          "preview": "https://demos.afthemes.com/magnitude/journal-blog/",
+          "plugins": "elementor,elespare"
+        },
+        "property-blog": {
+          "name": "Property Blog",
+          "catgory": "Elementor",
+          "slug": "property-blog",
+          "preview": "https://demos.afthemes.com/magnitude/property-blog/",
+          "plugins": "elementor,elespare"
+        },
+        "shop-blog": {
+          "name": "Shop Blog",
+          "catgory": "Elementor",
+          "slug": "shop-blog",
+          "preview": "https://demos.afthemes.com/magnitude/shop-blog/",
+          "plugins": "elementor,elespare"
+        },
+        "vintage-blog": {
+          "name": "Vintage Blog",
+          "catgory": "Elementor",
+          "slug": "vintage-blog",
+          "preview": "https://demos.afthemes.com/magnitude/vintage-blog/",
+          "plugins": "elementor,elespare"
         }
       }
     },
@@ -2310,6 +2428,125 @@
           "catgory": "Blog",
           "slug": "restro",
           "preview": "https://demos.afthemes.com/magazine-7/restro/"
+        },
+        "clean-blog": {
+          "name": "Clean Blog",
+          "catgory": "Blog",
+          "slug": "clean-blog",
+          "preview": "https://demos.afthemes.com/magazine-7/clean-blog/"
+        },
+        "cookery-blog": {
+          "name": "Cookery Blog",
+          "catgory": "Blog",
+          "slug": "cookery-blog",
+          "preview": "https://demos.afthemes.com/magazine-7/cookery-blog/",
+          "plugins" : "elementor,elespare"
+        },
+        "donation-blog": {
+          "name": "Donation Blog",
+          "catgory": "Blog",
+          "slug": "donation-blog",
+          "preview": "https://demos.afthemes.com/magazine-7/donation-blog/",
+          "plugins" : "elementor,elespare"
+        },
+        "games-blog": {
+          "name": "Games Blog",
+          "catgory": "Blog",
+          "slug": "games-blog",
+          "preview": "https://demos.afthemes.com/magazine-7/games-blog/",
+          "plugins" : "elementor,elespare"
+        },
+        "hiking-blog": {
+          "name": "Hiking Blog",
+          "catgory": "Blog",
+          "slug": "hiking-blog",
+          "preview": "https://demos.afthemes.com/magazine-7/hiking-blog/",
+          "plugins" : "elementor,elespare"
+        },
+        "workouts-blog": {
+          "name": "Workouts Blog",
+          "catgory": "Blog",
+          "slug": "workouts-blog",
+          "preview": "https://demos.afthemes.com/magazine-7/workouts-blog/",
+          "plugins" : "elementor,elespare"
+        },
+        "bangladesh-innovation": {
+          "name": "বাংলাদেশ উদ্ভাবন",
+          "catgory": "Blog",
+          "slug": "bangladesh-innovation",
+          "preview": "https://demos.afthemes.com/magazine-7/bangladesh-innovation"
+        },
+        "betting-blog": {
+          "name": "Weddery Blog",
+          "catgory": "Blog",
+          "slug": "betting-blog",
+          "preview": "https://demos.afthemes.com/magazine-7/betting-blog"
+        },
+        "brazilian-food": {
+          "name": "Comida Brasileira",
+          "catgory": "Blog",
+          "slug": "brazilian-food",
+          "preview": "https://demos.afthemes.com/magazine-7/brazilian-food"
+        },
+        "chinese-history": {
+          "name": "中国历史",
+          "catgory": "Blog",
+          "slug": "chinese-history",
+          "preview": "https://demos.afthemes.com/magazine-7/chinese-history"
+        },
+        "entertainment-hub": {
+          "name": "Divertisment Hub",
+          "catgory": "Blog",
+          "slug": "entertainment-hub",
+          "preview": "https://demos.afthemes.com/magazine-7/entertainment-hub"
+        },
+        "french-sports": {
+          "name": "Sports français",
+          "catgory": "Blog",
+          "slug": "french-sports",
+          "preview": "https://demos.afthemes.com/magazine-7/french-sports"
+        },
+        "german-drinks": {
+          "name": "Deutsche Getränke",
+          "catgory": "Blog",
+          "slug": "german-drinks",
+          "preview": "https://demos.afthemes.com/magazine-7/german-drinks"
+        },
+        "indian-culture": {
+          "name": "भारतीय संस्कृति",
+          "catgory": "Blog",
+          "slug": "indian-culture",
+          "preview": "https://demos.afthemes.com/magazine-7/indian-culture"
+        },
+        "japanese-tech": {
+          "name": "日本の技術",
+          "catgory": "Blog",
+          "slug": "japanese-tech",
+          "preview": "https://demos.afthemes.com/magazine-7/japanese-tech"
+        },
+        "korean-surgery": {
+          "name": "한의외과",
+          "catgory": "Blog",
+          "slug": "korean-surgery",
+          "preview": "https://demos.afthemes.com/magazine-7/korean-surgery"
+        },
+        "myanmar-tourism": {
+          "name": "မြန်မာ့ခရီးသွားလုပ်ငန်း",
+          "catgory": "Blog",
+          "slug": "myanmar-tourism",
+          "preview": "https://demos.afthemes.com/magazine-7/myanmar-tourism"
+        },
+        "nepali-culture": {
+          "name": "नेपाली संस्कृति",
+          "catgory": "Blog",
+          "slug": "nepali-culture",
+          "preview": "https://demos.afthemes.com/magazine-7/nepali-culture"
+        },
+        "russian-history": {
+          "name": "Русская история",
+          "catgory": "Blog",
+          "slug": "russian-history",
+          "preview": "https://demos.afthemes.com/magazine-7/russian-history"
         }
       }
     },

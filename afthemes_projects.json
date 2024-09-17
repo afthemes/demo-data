@@ -2188,6 +2188,131 @@
           "slug": "trusted-times",
           "preview": "https://demos.afthemes.com/morenews/trusted-times/",
           "plugins": "blockspare"
+        },
+        "ace-news": {
+          "name": "Ace News",
+          "catgory": "Elementor",
+          "slug": "ace-news",
+          "preview": "https://demos.afthemes.com/morenews/ace-news/",
+          "plugins": "elementor,elespare"
+        },
+        "auto-blog": {
+          "name": "Auto Blog",
+          "catgory": "Elementor",
+          "slug": "auto-blog",
+          "preview": "https://demos.afthemes.com/morenews/auto-blog/",
+          "plugins": "elementor,elespare"
+        },
+        "live-news": {
+          "name": "Live News",
+          "catgory": "Elementor",
+          "slug": "live-news",
+          "preview": "https://demos.afthemes.com/morenews/live-news/",
+          "plugins": "elementor,elespare"
+        },
+        "news-town": {
+          "name": "News Town",
+          "catgory": "Elementor",
+          "slug": "news-town",
+          "preview": "https://demos.afthemes.com/morenews/news-town/",
+          "plugins": "elementor,elespare"
+        },
+        "news-up": {
+          "name": "News Up",
+          "catgory": "Elementor",
+          "slug": "news-up",
+          "preview": "https://demos.afthemes.com/morenews/news-up/",
+          "plugins": "elementor,elespare"
+        },
+        "arabic-calligraphy": {
+          "name": "Arabic Calligraphy",
+          "catgory": "Arabic",
+          "slug": "arabic-calligraphy",
+          "preview": "https://demos.afthemes.com/morenews/arabic-calligraphy/"
+        },
+        "chinese-festivals": {
+          "name": "Chinese Festivals",
+          "catgory": "Chinese",
+          "slug": "chinese-festivals",
+          "preview": "https://demos.afthemes.com/morenews/chinese-festivals/"
+        },
+        "discover-wildlife": {
+          "name": "Discover Wildlife",
+          "catgory": "Hindi",
+          "slug": "discover-wildlife",
+          "preview": "https://demos.afthemes.com/morenews/discover-wildlife/"
+        },
+        "france-news": {
+          "name": "France News",
+          "catgory": "France",
+          "slug": "france-news",
+          "preview": "https://demos.afthemes.com/morenews/france-news/"
+        },
+        "innovation-brazil": {
+          "name": "Innovation Brazil",
+          "catgory": "Brazil",
+          "slug": "innovation-brazil",
+          "preview": "https://demos.afthemes.com/morenews/innovation-brazil/"
+        },
+        "korean-bbq": {
+          "name": "Korean BBQ",
+          "catgory": "Korean",
+          "slug": "korean-bbq",
+          "preview": "https://demos.afthemes.com/morenews/korean-bbq/"
+        },
+        "music-dance": {
+          "name": "Music Dance",
+          "catgory": "Africa",
+          "slug": "music-dance",
+          "preview": "https://demos.afthemes.com/morenews/music-dance/"
+        },
+        "nepali-handicrafts": {
+          "name": "Nepali Handicrafts",
+          "catgory": "Nepali",
+          "slug": "nepali-handicrafts",
+          "preview": "https://demos.afthemes.com/morenews/nepali-handicrafts/"
+        },
+        "news-japan": {
+          "name": "News Japan",
+          "catgory": "Japanese",
+          "slug": "news-japan",
+          "preview": "https://demos.afthemes.com/morenews/news-japan/"
+        },
+        "play-sports": {
+          "name": "Play Sports",
+          "catgory": "German",
+          "slug": "play-sports",
+          "preview": "https://demos.afthemes.com/morenews/play-sports/"
+        },
+        "romanian-festivals": {
+          "name": "Romanian Festivals",
+          "catgory": "Romania",
+          "slug": "romanian-festivals",
+          "preview": "https://demos.afthemes.com/morenews/romanian-festivals/"
+        },
+        "russian-cursine": {
+          "name": "Russian Cursine",
+          "catgory": "Russian",
+          "slug": "russian-cursine",
+          "preview": "https://demos.afthemes.com/morenews/russian-cursine/"
+        },
+        "spanish-news": {
+          "name": "Spanish News",
+          "catgory": "Spainese",
+          "slug": "spanish-news",
+          "preview": "https://demos.afthemes.com/morenews/spanish-news/"
+        },
+        "sport-myanmar": {
+          "name": "Sport Myanmar",
+          "catgory": "Myanmar",
+          "slug": "sport-myanmar",
+          "preview": "https://demos.afthemes.com/morenews/sport-myanmar/"
+        },
+        "visit-bangladesh": {
+          "name": "visit-bangladesh",
+          "catgory": "Bangladesh",
+          "slug": "visit-bangladesh",
+          "preview": "https://demos.afthemes.com/morenews/visit-bangladesh/"
         }
       }
     },

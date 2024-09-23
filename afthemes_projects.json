@@ -2380,6 +2380,62 @@
           "catgory": "General",
           "slug": "china-today",
           "preview": "https://demos.afthemes.com/morenews-pro/china-today/"
+        },
+        "application": {
+          "name": "Application",
+          "catgory": "Business",
+          "slug": "application",
+          "preview": "https://demos.afthemes.com/morenews-pro/application/",
+          "plugins": "blockspare"
+        },
+        "engineering": {
+          "name": "Engineering",
+          "catgory": "Business",
+          "slug": "engineering",
+          "preview": "https://demos.afthemes.com/morenews-pro/engineering/",
+          "plugins": "blockspare"
+        },
+        "enterprise": {
+          "name": "Enterprise",
+          "catgory": "Business",
+          "slug": "enterprise",
+          "preview": "https://demos.afthemes.com/morenews-pro/enterprise/",
+          "plugins": "blockspare"
+        },
+        "flourish-fields": {
+          "name": "Flourish Fields",
+          "catgory": "Business",
+          "slug": "flourish-fields",
+          "preview": "https://demos.afthemes.com/morenews-pro/flourish-fields/",
+          "plugins": "blockspare"
+        },
+        "vehicle-trade": {
+          "name": "Vehicle Trade",
+          "catgory": "Business",
+          "slug": "vehicle-trade",
+          "preview": "https://demos.afthemes.com/morenews-pro/vehicle-trade/",
+          "plugins": "blockspare"
+        },
+        "oral-hygiene": {
+          "name": "Oral Hygiene",
+          "catgory": "Business",
+          "slug": "oral-hygiene",
+          "preview": "https://demos.afthemes.com/morenews-pro/oral-hygiene/",
+          "plugins": "blockspare,woocommerce"
+        },
+        "bloomery": {
+          "name": "Bloomery",
+          "catgory": "Business",
+          "slug": "bloomery",
+          "preview": "https://demos.afthemes.com/morenews-pro/bloomery/",
+          "plugins": "blockspare,woocommerce"
+        },
+        "delicious-destinations": {
+          "name": "Delicious Destinations",
+          "catgory": "Business",
+          "slug": "delicious-destinations",
+          "preview": "https://demos.afthemes.com/morenews-pro/delicious-destinations/",
+          "plugins": "blockspare,woocommerce"
         }
       }
     },

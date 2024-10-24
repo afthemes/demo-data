@@ -1966,6 +1966,19 @@
         }
       }
     },
+    "newsmore": {
+      "data": "newsmore",
+      "free": "morenews",
+      "premium": "morenews-pro",
+      "demodata": {
+        "default": {
+          "name": "NewsMore",
+          "catgory": "General",
+          "slug": "newsmore",
+          "preview": "https://demos.afthemes.com/morenews/newsmore/"
+        }
+      }
+    },
     "centralnews": {
       "data": "centralnews",
       "free": "morenews",

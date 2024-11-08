@@ -2091,6 +2091,27 @@
           "preview": "https://demos.afthemes.com/morenews/moreblock-dark/",
           "plugins": "blockspare"
         },
+        "child-centered-education": {
+          "name": "Child Centered Education",
+          "catgory": "Gutenberg",
+          "slug": "child-centered-education",
+          "preview": "https://demos.afthemes.com/morenews/child-centered-education/",
+          "plugins": "blockspare"
+        },
+        "space-aesthetics": {
+          "name": "Space Aesthetics",
+          "catgory": "Gutenberg",
+          "slug": "space-aesthetics",
+          "preview": "https://demos.afthemes.com/morenews/space-aesthetics/",
+          "plugins": "blockspare"
+        },
+        "trending-now": {
+          "name": "Trending Now",
+          "catgory": "Elementor",
+          "slug": "trending-now",
+          "preview": "https://demos.afthemes.com/morenews/trending-now/",
+          "plugins": "elementor,elespare"
+        },
         "architecture-blog": {
           "name": "Architecture Blog",
           "catgory": "Elementor",

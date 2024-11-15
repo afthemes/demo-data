@@ -1966,6 +1966,19 @@
         }
       }
     },
+    "globalnews": {
+      "data": "globalnews",
+      "free": "morenews",
+      "premium": "morenews-pro",
+      "demodata": {
+        "default": {
+          "name": "GlobalNews",
+          "catgory": "General",
+          "slug": "globalnews",
+          "preview": "https://demos.afthemes.com/morenews/globalnews/"
+        }
+      }
+    },
     "newsmore": {
       "data": "newsmore",
       "free": "morenews",

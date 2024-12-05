@@ -1966,6 +1966,19 @@
         }
       }
     },
+    "newsical": {
+      "data": "newsical",
+      "free": "morenews",
+      "premium": "morenews-pro",
+      "demodata": {
+        "default": {
+          "name": "Newsical",
+          "catgory": "General",
+          "slug": "newsical",
+          "preview": "https://demos.afthemes.com/morenews/newsical/"
+        }
+      }
+    },
     "globalnews": {
       "data": "globalnews",
       "free": "morenews",

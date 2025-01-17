@@ -1966,6 +1966,19 @@
         }
       }
     },
+    "blacknews": {
+      "data": "blacknews",
+      "free": "morenews",
+      "premium": "morenews-pro",
+      "demodata": {
+        "default": {
+          "name": "BlackNews",
+          "catgory": "General",
+          "slug": "blacknews",
+          "preview": "https://demos.afthemes.com/morenews/blacknews/"
+        }
+      }
+    },
     "newsical": {
       "data": "newsical",
       "free": "morenews",
@@ -2002,6 +2015,13 @@
           "catgory": "General",
           "slug": "newsmore",
           "preview": "https://demos.afthemes.com/morenews/newsmore/"
+        },
+        "gadgetsnews": {
+          "name": "Gadgets News",
+          "catgory": "Shop",
+          "slug": "gadgetsnews",
+          "preview": "https://demos.afthemes.com/morenews/gadgetsnews/",
+          "plugins": "woocommerce, popup-maker"
         }
       }
     },
@@ -2102,6 +2122,55 @@
           "catgory": "General",
           "slug": "china-today",
           "preview": "https://demos.afthemes.com/morenews/china-today/"
+        },
+        "blooming-bounty": {
+          "name": "Blooming Bounty",
+          "catgory": "Shop",
+          "slug": "blooming-bounty",
+          "preview": "https://demos.afthemes.com/morenews/blooming-bounty/",
+          "plugins": "blockspare,woocommerce"
+        },
+        "food-hub": {
+          "name": "Food Hub",
+          "catgory": "Shop",
+          "slug": "food-hub",
+          "preview": "https://demos.afthemes.com/morenews/food-hub/",
+          "plugins": "blockspare,woocommerce"
+        },
+        "gravity-fitness": {
+          "name": "Gravity Fitness",
+          "catgory": "Shop",
+          "slug": "gravity-fitness",
+          "preview": "https://demos.afthemes.com/morenews/gravity-fitness/",
+          "plugins": "blockspare,woocommerce"
+        },
+        "fashion-store": {
+          "name": "Fashion Store",
+          "catgory": "Shop",
+          "slug": "fashion-store",
+          "preview": "https://demos.afthemes.com/morenews/fashion-store/",
+          "plugins": "blockspare,woocommerce"
+        },
+        "mobile-hub": {
+          "name": "Mobile Hub",
+          "catgory": "Shop",
+          "slug": "mobile-hub",
+          "preview": "https://demos.afthemes.com/morenews/mobile-hub/",
+          "plugins": "woocommerce, woo-variation-swatches, yith-woocommerce-product-bundles,elementor, elespare,essential-addons-for-elementor-lite "
+        },
+        "beauty-product": {
+          "name": "Beauty Product",
+          "catgory": "Shop",
+          "slug": "beauty-product",
+          "preview": "https://demos.afthemes.com/morenews/beauty-product/",
+          "plugins": "woocommerce, elementor, elespare,essential-addons-for-elementor-lite "
+        },
+        "book-store": {
+          "name": "Book Store",
+          "catgory": "Shop",
+          "slug": "book-store",
+          "preview": "https://demos.afthemes.com/morenews/book-store/",
+          "plugins": "woocommerce, elementor, elespare,essential-addons-for-elementor-lite "
         },
         "moreblock": {
           "name": "Morenews Block",

@@ -1966,6 +1966,19 @@
         }
       }
     },
+    "newsplace": {
+      "data": "newsplace",
+      "free": "morenews",
+      "premium": "morenews-pro",
+      "demodata": {
+        "default": {
+          "name": "NewsPlace",
+          "catgory": "General",
+          "slug": "newsplace",
+          "preview": "https://demos.afthemes.com/morenews/newsplace/"
+        }
+      }
+    },
     "blacknews": {
       "data": "blacknews",
       "free": "morenews",

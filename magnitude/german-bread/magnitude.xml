@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.5.5" created="2024-08-14 12:15" -->
+	<!-- generator="WordPress/6.9" created="2026-01-07 04:59" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Deutsches Brot</title>
 	<link>https://demos.afthemes.com/magnitude/german-bread</link>
 	<description></description>
-	<pubDate>Wed, 14 Aug 2024 12:15:15 +0000</pubDate>
+	<pubDate>Wed, 07 Jan 2026 04:59:06 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demos.afthemes.com/magnitude/</wp:base_site_url>
@@ -540,7 +540,7 @@
 	<wp:term><wp:term_id>40</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[top-menu-items]]></wp:term_slug><wp:term_name><![CDATA[Top menu items]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<generator>https://wordpress.org/?v=6.9</generator>
 
 		<item>
 		<title><![CDATA[Facebook]]></title>
@@ -613,7 +613,7 @@
 														</item>
 					<item>
 		<title><![CDATA[pexels-ingo-109629]]></title>
-		<link>https://demos.afthemes.com/magnitude/german-bread/2024/05/14/somebody-threatened-to-burn-the-school-down/pexels-ingo-109629/</link>
+		<link>https://demos.afthemes.com/magnitude/german-bread/2025/11/21/somebody-threatened-to-burn-the-school-down/pexels-ingo-109629/</link>
 		<pubDate>Thu, 11 Jul 2024 10:19:29 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demos.afthemes.com/elegant-magazine/germanic-tales/wp-content/uploads/sites/38/2024/07/pexels-ingo-109629.jpg</guid>
@@ -1223,7 +1223,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Warum lokale US-Zeitungen Alarm schlagen]]></title>
-		<link>https://demos.afthemes.com/magnitude/german-bread/2024/05/14/somebody-threatened-to-burn-the-school-down/</link>
+		<link>https://demos.afthemes.com/magnitude/german-bread/2025/11/21/somebody-threatened-to-burn-the-school-down/</link>
 		<pubDate>Tue, 14 May 2024 01:01:01 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/?p=24</guid>
@@ -1311,10 +1311,10 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		<excerpt:encoded><![CDATA[Bouw uw website in enkele minuten met importeren met één klik – geen codeergedoe!
 ]]></excerpt:encoded>
 		<wp:post_id>24</wp:post_id>
-		<wp:post_date><![CDATA[2024-05-14 01:01:01]]></wp:post_date>
+		<wp:post_date><![CDATA[2025-11-21 10:49:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-05-14 01:01:01]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-07-22 10:23:49]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-07-22 10:23:49]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-11-21 10:49:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-11-21 10:49:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[somebody-threatened-to-burn-the-school-down]]></wp:post_name>
@@ -1403,10 +1403,30 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		<wp:meta_key><![CDATA[magnitude-meta-content-alignment]]></wp:meta_key>
 		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_74d3e3e7e7d6a86eb164ec22e11ed5d0]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="Elementor Tutorial for Beginners: How to Build a News Website in 5 Minutes! #elementor #wordpress" width="640" height="480" src="https://www.youtube.com/embed/X3n2Evmv8z0?list=PL8nUD79gscmjMx2DC7dVCkVYhoGruezzp" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_74d3e3e7e7d6a86eb164ec22e11ed5d0]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1729814042]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_7207bba63a9802deb6ae7f0d3a3f7014]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="How to Make a Professional News Website Using Elementor (2024 Update) #website #design #tips #tricks" width="640" height="480" src="https://www.youtube.com/embed/8Jq53Pywmk0?list=PL8nUD79gscmjMx2DC7dVCkVYhoGruezzp" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_7207bba63a9802deb6ae7f0d3a3f7014]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1729814042]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-05-14]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Auf der Suche nach dem „Engel“, der mich auf der Westminster Bridge hielt]]></title>
-		<link>https://demos.afthemes.com/magnitude/german-bread/2024/05/14/trump-putin-your-toolkit-to-help-understand-the-story/</link>
+		<link>https://demos.afthemes.com/magnitude/german-bread/2025/11/21/trump-putin-your-toolkit-to-help-understand-the-story/</link>
 		<pubDate>Tue, 14 May 2024 01:11:01 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/?p=27</guid>
@@ -1494,10 +1514,10 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		<excerpt:encoded><![CDATA[Bouw uw website in enkele minuten met importeren met één klik – geen codeergedoe!
 ]]></excerpt:encoded>
 		<wp:post_id>27</wp:post_id>
-		<wp:post_date><![CDATA[2024-05-14 01:11:01]]></wp:post_date>
+		<wp:post_date><![CDATA[2025-11-21 10:49:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-05-14 01:11:01]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-07-22 10:23:33]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-07-22 10:23:33]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-11-21 10:49:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-11-21 10:49:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[trump-putin-your-toolkit-to-help-understand-the-story]]></wp:post_name>
@@ -1589,10 +1609,30 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		<wp:meta_key><![CDATA[magnitude-meta-content-alignment]]></wp:meta_key>
 		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_74d3e3e7e7d6a86eb164ec22e11ed5d0]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="Elementor Tutorial for Beginners: How to Build a News Website in 5 Minutes! #elementor #wordpress" width="640" height="480" src="https://www.youtube.com/embed/X3n2Evmv8z0?list=PL8nUD79gscmjMx2DC7dVCkVYhoGruezzp" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_74d3e3e7e7d6a86eb164ec22e11ed5d0]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1729639860]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_7207bba63a9802deb6ae7f0d3a3f7014]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="How to Make a Professional News Website Using Elementor (2024 Update) #website #design #tips #tricks" width="640" height="480" src="https://www.youtube.com/embed/8Jq53Pywmk0?list=PL8nUD79gscmjMx2DC7dVCkVYhoGruezzp" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_7207bba63a9802deb6ae7f0d3a3f7014]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1729639860]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-05-14]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Welche neuen Gesichter könnten einen großen Eindruck hinterlassen?]]></title>
-		<link>https://demos.afthemes.com/magnitude/german-bread/2024/05/14/business-booming-for-giant-cargo-planes/</link>
+		<link>https://demos.afthemes.com/magnitude/german-bread/2025/11/21/business-booming-for-giant-cargo-planes/</link>
 		<pubDate>Tue, 14 May 2024 02:12:01 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/?p=30</guid>
@@ -1680,10 +1720,10 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		<excerpt:encoded><![CDATA[Bouw uw website in enkele minuten met importeren met één klik – geen codeergedoe!
 ]]></excerpt:encoded>
 		<wp:post_id>30</wp:post_id>
-		<wp:post_date><![CDATA[2024-05-14 02:12:01]]></wp:post_date>
+		<wp:post_date><![CDATA[2025-11-21 10:49:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-05-14 02:12:01]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-07-22 10:23:18]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-07-22 10:23:18]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-11-21 10:49:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-11-21 10:49:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[business-booming-for-giant-cargo-planes]]></wp:post_name>
@@ -1775,10 +1815,30 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		<wp:meta_key><![CDATA[magnitude-meta-content-alignment]]></wp:meta_key>
 		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_74d3e3e7e7d6a86eb164ec22e11ed5d0]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="Elementor Tutorial for Beginners: How to Build a News Website in 5 Minutes! #elementor #wordpress" width="640" height="480" src="https://www.youtube.com/embed/X3n2Evmv8z0?list=PL8nUD79gscmjMx2DC7dVCkVYhoGruezzp" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_74d3e3e7e7d6a86eb164ec22e11ed5d0]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1726574813]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_7207bba63a9802deb6ae7f0d3a3f7014]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="How to Make a Professional News Website Using Elementor (2024 Update) #website #design #tips #tricks" width="640" height="480" src="https://www.youtube.com/embed/8Jq53Pywmk0?list=PL8nUD79gscmjMx2DC7dVCkVYhoGruezzp" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_7207bba63a9802deb6ae7f0d3a3f7014]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1726574813]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-05-14]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Die Bedeutung der rechtlichen Aspekte des Geschäftslebens]]></title>
-		<link>https://demos.afthemes.com/magnitude/german-bread/2024/05/14/google-hit-with-record-eu-fine-over-shopping-service/</link>
+		<link>https://demos.afthemes.com/magnitude/german-bread/2025/11/21/google-hit-with-record-eu-fine-over-shopping-service/</link>
 		<pubDate>Tue, 14 May 2024 03:12:01 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/?p=33</guid>
@@ -1866,10 +1926,10 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		<excerpt:encoded><![CDATA[Bouw uw website in enkele minuten met importeren met één klik – geen codeergedoe!
 ]]></excerpt:encoded>
 		<wp:post_id>33</wp:post_id>
-		<wp:post_date><![CDATA[2024-05-14 03:12:01]]></wp:post_date>
+		<wp:post_date><![CDATA[2025-11-21 10:49:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-05-14 03:12:01]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-07-22 10:22:59]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-07-22 10:22:59]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-11-21 10:49:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-11-21 10:49:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[google-hit-with-record-eu-fine-over-shopping-service]]></wp:post_name>
@@ -1957,6 +2017,26 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[magnitude-meta-content-alignment]]></wp:meta_key>
 		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_74d3e3e7e7d6a86eb164ec22e11ed5d0]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="Elementor Tutorial for Beginners: How to Build a News Website in 5 Minutes! #elementor #wordpress" width="640" height="480" src="https://www.youtube.com/embed/X3n2Evmv8z0?list=PL8nUD79gscmjMx2DC7dVCkVYhoGruezzp" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_74d3e3e7e7d6a86eb164ec22e11ed5d0]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1726611456]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_7207bba63a9802deb6ae7f0d3a3f7014]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="How to Make a Professional News Website Using Elementor (2024 Update) #website #design #tips #tricks" width="640" height="480" src="https://www.youtube.com/embed/8Jq53Pywmk0?list=PL8nUD79gscmjMx2DC7dVCkVYhoGruezzp" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_7207bba63a9802deb6ae7f0d3a3f7014]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1726611456]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-05-14]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2279,7 +2359,7 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 							</item>
 					<item>
 		<title><![CDATA[Die ganze Geschichte von Thailands außergewöhnlicher Höhlenrettung]]></title>
-		<link>https://demos.afthemes.com/magnitude/german-bread/2024/05/14/the-full-story-of-thailands-extraordinary-cave-rescue/</link>
+		<link>https://demos.afthemes.com/magnitude/german-bread/2025/11/21/the-full-story-of-thailands-extraordinary-cave-rescue/</link>
 		<pubDate>Tue, 14 May 2024 04:12:01 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/?p=6</guid>
@@ -2370,10 +2450,10 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		<excerpt:encoded><![CDATA[Bouw uw website in enkele minuten met importeren met één klik – geen codeergedoe!
 ]]></excerpt:encoded>
 		<wp:post_id>98</wp:post_id>
-		<wp:post_date><![CDATA[2024-05-14 04:12:01]]></wp:post_date>
+		<wp:post_date><![CDATA[2025-11-21 10:49:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-05-14 04:12:01]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-07-22 10:22:51]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-07-22 10:22:51]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-11-21 10:49:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-11-21 10:49:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[the-full-story-of-thailands-extraordinary-cave-rescue]]></wp:post_name>
@@ -2449,6 +2529,26 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[magnitude-meta-content-alignment]]></wp:meta_key>
 		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_74d3e3e7e7d6a86eb164ec22e11ed5d0]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="Elementor Tutorial for Beginners: How to Build a News Website in 5 Minutes! #elementor #wordpress" width="640" height="480" src="https://www.youtube.com/embed/X3n2Evmv8z0?list=PL8nUD79gscmjMx2DC7dVCkVYhoGruezzp" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_74d3e3e7e7d6a86eb164ec22e11ed5d0]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1726577309]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_7207bba63a9802deb6ae7f0d3a3f7014]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="How to Make a Professional News Website Using Elementor (2024 Update) #website #design #tips #tricks" width="640" height="480" src="https://www.youtube.com/embed/8Jq53Pywmk0?list=PL8nUD79gscmjMx2DC7dVCkVYhoGruezzp" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_7207bba63a9802deb6ae7f0d3a3f7014]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1726577309]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-05-14]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2924,7 +3024,7 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 														</item>
 					<item>
 		<title><![CDATA[Auf der Suche nach den vergessenen Helden des Zweiten Weltkriegs]]></title>
-		<link>https://demos.afthemes.com/magnitude/german-bread/2024/05/14/why-local-us-newspapers-are-sounding-the-alarm/</link>
+		<link>https://demos.afthemes.com/magnitude/german-bread/2025/11/21/why-local-us-newspapers-are-sounding-the-alarm/</link>
 		<pubDate>Wed, 18 Jul 2018 11:07:30 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/?p=9</guid>
@@ -3015,10 +3115,10 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		<excerpt:encoded><![CDATA[Bouw uw website in enkele minuten met importeren met één klik – geen codeergedoe!
 ]]></excerpt:encoded>
 		<wp:post_id>155</wp:post_id>
-		<wp:post_date><![CDATA[2024-05-14 05:12:01]]></wp:post_date>
+		<wp:post_date><![CDATA[2025-11-21 10:49:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-07-18 11:07:30]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-07-22 10:22:37]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-07-22 10:22:37]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-11-21 10:49:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-11-21 10:49:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[why-local-us-newspapers-are-sounding-the-alarm]]></wp:post_name>
@@ -3102,10 +3202,30 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		<wp:meta_key><![CDATA[magnitude-meta-content-alignment]]></wp:meta_key>
 		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_74d3e3e7e7d6a86eb164ec22e11ed5d0]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="Elementor Tutorial for Beginners: How to Build a News Website in 5 Minutes! #elementor #wordpress" width="640" height="480" src="https://www.youtube.com/embed/X3n2Evmv8z0?list=PL8nUD79gscmjMx2DC7dVCkVYhoGruezzp" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_74d3e3e7e7d6a86eb164ec22e11ed5d0]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1724998344]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_7207bba63a9802deb6ae7f0d3a3f7014]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="How to Make a Professional News Website Using Elementor (2024 Update) #website #design #tips #tricks" width="640" height="480" src="https://www.youtube.com/embed/8Jq53Pywmk0?list=PL8nUD79gscmjMx2DC7dVCkVYhoGruezzp" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_7207bba63a9802deb6ae7f0d3a3f7014]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1724998345]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-05-14]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Was ist beängstigender als Sexgespräche? Es geht um das Gewicht]]></title>
-		<link>https://demos.afthemes.com/magnitude/german-bread/2024/05/14/searching-for-the-angel-who-held-me-on-westminster-bridge/</link>
+		<link>https://demos.afthemes.com/magnitude/german-bread/2025/11/21/searching-for-the-angel-who-held-me-on-westminster-bridge/</link>
 		<pubDate>Tue, 14 May 2024 06:12:01 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/?p=12</guid>
@@ -3196,10 +3316,10 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		<excerpt:encoded><![CDATA[Bouw uw website in enkele minuten met importeren met één klik – geen codeergedoe!
 ]]></excerpt:encoded>
 		<wp:post_id>156</wp:post_id>
-		<wp:post_date><![CDATA[2024-05-14 06:12:01]]></wp:post_date>
+		<wp:post_date><![CDATA[2025-11-21 10:49:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-05-14 06:12:01]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-07-22 10:22:00]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-07-22 10:22:00]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-11-21 10:49:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-11-21 10:49:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[searching-for-the-angel-who-held-me-on-westminster-bridge]]></wp:post_name>
@@ -3275,10 +3395,30 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		<wp:meta_key><![CDATA[magnitude-meta-content-alignment]]></wp:meta_key>
 		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_74d3e3e7e7d6a86eb164ec22e11ed5d0]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="Elementor Tutorial for Beginners: How to Build a News Website in 5 Minutes! #elementor #wordpress" width="640" height="480" src="https://www.youtube.com/embed/X3n2Evmv8z0?list=PL8nUD79gscmjMx2DC7dVCkVYhoGruezzp" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_74d3e3e7e7d6a86eb164ec22e11ed5d0]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1729809236]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_7207bba63a9802deb6ae7f0d3a3f7014]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="How to Make a Professional News Website Using Elementor (2024 Update) #website #design #tips #tricks" width="640" height="480" src="https://www.youtube.com/embed/8Jq53Pywmk0?list=PL8nUD79gscmjMx2DC7dVCkVYhoGruezzp" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_7207bba63a9802deb6ae7f0d3a3f7014]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1729809236]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-05-14]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Wie man preisgekrönte Blog-Schlagzeilen schreibt]]></title>
-		<link>https://demos.afthemes.com/magnitude/german-bread/2024/05/14/all-you-need-to-know-about-penalty-shootouts/</link>
+		<link>https://demos.afthemes.com/magnitude/german-bread/2025/11/21/all-you-need-to-know-about-penalty-shootouts/</link>
 		<pubDate>Tue, 14 May 2024 07:12:01 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/?p=15</guid>
@@ -3369,10 +3509,10 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		<excerpt:encoded><![CDATA[Bouw uw website in enkele minuten met importeren met één klik – geen codeergedoe!
 ]]></excerpt:encoded>
 		<wp:post_id>157</wp:post_id>
-		<wp:post_date><![CDATA[2024-05-14 07:12:01]]></wp:post_date>
+		<wp:post_date><![CDATA[2025-11-21 10:49:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-05-14 07:12:01]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-07-22 10:21:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-07-22 10:21:46]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-11-21 10:49:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-11-21 10:49:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[all-you-need-to-know-about-penalty-shootouts]]></wp:post_name>
@@ -3448,10 +3588,30 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		<wp:meta_key><![CDATA[magnitude-meta-content-alignment]]></wp:meta_key>
 		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_74d3e3e7e7d6a86eb164ec22e11ed5d0]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="Elementor Tutorial for Beginners: How to Build a News Website in 5 Minutes! #elementor #wordpress" width="640" height="480" src="https://www.youtube.com/embed/X3n2Evmv8z0?list=PL8nUD79gscmjMx2DC7dVCkVYhoGruezzp" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_74d3e3e7e7d6a86eb164ec22e11ed5d0]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1729121106]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_7207bba63a9802deb6ae7f0d3a3f7014]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="How to Make a Professional News Website Using Elementor (2024 Update) #website #design #tips #tricks" width="640" height="480" src="https://www.youtube.com/embed/8Jq53Pywmk0?list=PL8nUD79gscmjMx2DC7dVCkVYhoGruezzp" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_7207bba63a9802deb6ae7f0d3a3f7014]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1729121106]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-05-14]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Wie viele dieser italienischen Gerichte haben Sie schon probiert?]]></title>
-		<link>https://demos.afthemes.com/magnitude/german-bread/2024/05/14/the-man-who-saved-thousands-of-people-from-hiv/</link>
+		<link>https://demos.afthemes.com/magnitude/german-bread/2025/11/21/the-man-who-saved-thousands-of-people-from-hiv/</link>
 		<pubDate>Tue, 14 May 2024 08:12:01 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/?p=18</guid>
@@ -3542,10 +3702,10 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		<excerpt:encoded><![CDATA[Bouw uw website in enkele minuten met importeren met één klik – geen codeergedoe!
 ]]></excerpt:encoded>
 		<wp:post_id>158</wp:post_id>
-		<wp:post_date><![CDATA[2024-05-14 08:12:01]]></wp:post_date>
+		<wp:post_date><![CDATA[2025-11-21 10:49:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-05-14 08:12:01]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-07-22 10:21:58]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-07-22 10:21:58]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-11-21 10:49:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-11-21 10:49:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[the-man-who-saved-thousands-of-people-from-hiv]]></wp:post_name>
@@ -3636,10 +3796,22 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		<wp:meta_key><![CDATA[magnitude-meta-content-alignment]]></wp:meta_key>
 		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_7207bba63a9802deb6ae7f0d3a3f7014]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="How to Make a Professional News Website Using Elementor (2024 Update) #website #design #tips #tricks" width="640" height="480" src="https://www.youtube.com/embed/8Jq53Pywmk0?list=PL8nUD79gscmjMx2DC7dVCkVYhoGruezzp" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_7207bba63a9802deb6ae7f0d3a3f7014]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1726574812]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-05-14]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Möchten Sie etwas über die Oldtimer in einem Retrofilm wissen?]]></title>
-		<link>https://demos.afthemes.com/magnitude/german-bread/2024/05/14/searching-for-the-forgotten-heroes-of-world-war-two/</link>
+		<link>https://demos.afthemes.com/magnitude/german-bread/2025/11/21/searching-for-the-forgotten-heroes-of-world-war-two/</link>
 		<pubDate>Tue, 14 May 2024 09:12:01 +0000</pubDate>
 		<dc:creator><![CDATA[wpafthemes@gmail.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.afthemes.com/covernews-pro/?p=21</guid>
@@ -3730,10 +3902,10 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 		<excerpt:encoded><![CDATA[Bouw uw website in enkele minuten met importeren met één klik – geen codeergedoe!
 ]]></excerpt:encoded>
 		<wp:post_id>159</wp:post_id>
-		<wp:post_date><![CDATA[2024-05-14 09:12:01]]></wp:post_date>
+		<wp:post_date><![CDATA[2025-11-21 10:49:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-05-14 09:12:01]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-07-22 10:22:04]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-07-22 10:22:04]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-11-21 10:49:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-11-21 10:49:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[searching-for-the-forgotten-heroes-of-world-war-two]]></wp:post_name>
@@ -3825,6 +3997,26 @@ https://www.youtube.com/watch?v=t7LMDLRE8Ok
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[magnitude-meta-content-alignment]]></wp:meta_key>
 		<wp:meta_value><![CDATA[align-content-left]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_74d3e3e7e7d6a86eb164ec22e11ed5d0]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="Elementor Tutorial for Beginners: How to Build a News Website in 5 Minutes! #elementor #wordpress" width="640" height="480" src="https://www.youtube.com/embed/X3n2Evmv8z0?list=PL8nUD79gscmjMx2DC7dVCkVYhoGruezzp" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_74d3e3e7e7d6a86eb164ec22e11ed5d0]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1726575124]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_7207bba63a9802deb6ae7f0d3a3f7014]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="How to Make a Professional News Website Using Elementor (2024 Update) #website #design #tips #tricks" width="640" height="480" src="https://www.youtube.com/embed/8Jq53Pywmk0?list=PL8nUD79gscmjMx2DC7dVCkVYhoGruezzp" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_7207bba63a9802deb6ae7f0d3a3f7014]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1726575124]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-05-14]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
